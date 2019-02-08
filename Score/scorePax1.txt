@@ -1,0 +1,61 @@
+### Resultat Question ###
+Reponse:JON SNOW correction:JON SNOW
+	points =0+5
+Reponse:JON SNOW correction:JON SNOW
+	points =5+2
+Reponse:JON SNOW correction:JON SNOW
+	points =7+2
+Reponse:JON SNOW correction:JON SNOW
+	points =9+2
+Reponse:OUI correction:OUI
+	points =11+1
+Reponse:OUI correction:OUI
+	points =12+1
+Reponse:OUI correction:OUI
+	points =13+1
+### Resultat Deathnote ###
+Reponse deathnote:MORT correction:VIVANT
+	points =14-1
+Reponse deathnote:MORT correction:MORT
+	points = 13+1
+	Transformation ? FALSE
+	points = 14-1
+Reponse deathnote:MORT correction:VIVANT
+	points =13-1
+Reponse deathnote:MORT correction:MORT
+	points = 12+1
+	Transformation ? TRUE
+	points = 13+1
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Total: 14
