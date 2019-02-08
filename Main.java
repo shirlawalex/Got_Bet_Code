@@ -12,7 +12,7 @@ public class Main{
 				//Case 1 : All pax from 0 to n
 				start = 0;
 				//args[i].substring(1,len-1);
-				end = 
+				end = Integer.parseInt(args[i].substring(1,len-1));
 			}else{
 				if(args[i].charAt(len-1) == ':'){
 					//Case 2 : All pax from n to last pax
@@ -22,8 +22,8 @@ public class Main{
 					for(int j=0; j<args[i];i++){
 						if(args[i].charAt(j) == ':'){
 							suite = true;
-							start = ;
-							end = ;
+							start = Integer.parseInt(args[i].substring(0,j-1));
+							end = Integer.parseInt(args[i].substring(j+1,len));
 						}
 					}
 					if(suite){
