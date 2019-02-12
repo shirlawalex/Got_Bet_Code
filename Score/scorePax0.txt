@@ -1,0 +1,51 @@
+### Resultat Question ###
+Reponse:NONE correction:JON SNOW
+Reponse:NONE correction:JON SNOW
+Reponse:NONE correction:JON SNOW
+Reponse:NONE correction:JON SNOW
+Reponse:OUI correction:OUI
+	points =0+1
+Reponse:NONE correction:OUI
+Reponse:NONE correction:OUI
+### Resultat Deathnote ###
+Reponse deathnote:NONE correction:VIVANT
+	points =1-1
+Reponse deathnote:NONE correction:MORT
+	points =0-1
+Reponse deathnote:NONE correction:VIVANT
+	points =-1-1
+Reponse deathnote:NONE correction:MORT
+	points =-2-1
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Total: -3
