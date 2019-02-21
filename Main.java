@@ -69,6 +69,11 @@ public class Main{
 
  				score.close();
 			}
+
+			int [] tab = new int [1];
+			for(int l = 0;l<5;l++){
+				System.out.println(tab[l]);
+			}
 		}
  	} 
 	
