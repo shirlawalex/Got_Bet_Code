@@ -6,6 +6,32 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 class Reader{
+    BufferedReader buff;
+    
+    public Reader(String fileName){
+        try{
+            InputStream flux = new FileInputStream(fileName);    //Pour linstant changement manuel des textes
+            InputStreamReader lecture = new InputStreamReader(flux);
+            buff = new BufferedReader(lecture);
+            }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
+    public String readLine(){
+        String ligne = "";
+        try{
+            ligne = buff.readLine();
+            }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        return ligne;
+    }
+}
+
+class ReaderDeathnote{
 
 	public int nbQuestion = 7;
 	public int nbPers = 36;
@@ -14,7 +40,7 @@ class Reader{
     public String [] question = new String[nbQuestion];
     public String [][] deathnote = new String[nbPers][2];
 
-    public Reader(String fileName){
+    public ReaderDeathnote(String fileName){
         try{
             InputStream flux = new FileInputStream(fileName);    //Pour linstant changement manuel des textes
             InputStreamReader lecture = new InputStreamReader(flux);

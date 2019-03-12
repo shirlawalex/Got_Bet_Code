@@ -59,8 +59,8 @@ public class Main{
 
 			for(int k=start;k<end+1;k++){
 				String file = "Pax/pax"+k+".txt";
-				Reader pax = new Reader(file);
-				Reader result = new Reader("result.txt");
+				ReaderDeathnote pax = new ReaderDeathnote(file);
+				ReaderDeathnote result = new ReaderDeathnote("result.txt");
 
 				Writer score = new Writer("Score/scorePax"+k+".txt");
 

@@ -5,7 +5,7 @@ public class Checker{
 	public static int small = 1;
 
 
-	public static String checkAll(Reader pax, Reader result,Writer score){
+	public static String checkAll(ReaderDeathnote pax, ReaderDeathnote result,Writer score){
 		String content ="";
 		int points = 0;
 		//System.out.println("### Resultat Question ###");
