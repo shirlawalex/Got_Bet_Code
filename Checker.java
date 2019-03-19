@@ -27,7 +27,7 @@ public class Checker{
 			return 0;
 		}
 		for(int i = 0;i<taille;i++){
-			if(!correction[i].equals("NONE")){
+			if(!correction[i].equals("NULL")){
 				//System.out.println("Reponse:"+reponse[i]+" correction:"+correction[i]);
 				content += "Reponse:"+reponse[i]+" correction:"+correction[i]+"\n";
 				if(reponse[i].equals(correction[i])){
@@ -39,8 +39,8 @@ public class Checker{
 					points += add;
 				}
 			}else{
-				//System.out.println("Question : NONE ");
-				content += "Question : NONE "+"\n";
+				//System.out.println("Question : NULL ");
+				content += "Question : NULL "+"\n";
 			}
 		}
 		System.out.println(content);
@@ -58,7 +58,7 @@ public class Checker{
 		}
 
 		for(int i = 0;i<taille;i++){
-			if(!correction[i][0].equals("NONE")){
+			if(!correction[i][0].equals("NULL")){
 				//System.out.println("Reponse deathnote:"+deathnote[i][0]+" correction:"+correction[i][0]);
 				content += "Reponse deathnote:"+deathnote[i][0]+" correction:"+correction[i][0]+"\n";
 				

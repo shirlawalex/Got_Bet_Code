@@ -1,48 +1,48 @@
-Jesus
+SHIRLAW
 ###
-NONE
-NONE
-NONE
-NONE
+Daenerys Targaryen
+Brienne of Tarth
+Arya Stark
+NON
+NON
 OUI
-NONE
-NONE
+OUI
+NON
 ###
-NONE NONE Daenerys Targaryen
-NONE NONE Drogon
-NONE NONE Rhaegal
-NONE NONE Jon Snow
-NONE NONE Arya Stark
-NONE NONE Bran Stark
-NONE NONE Sansa Stark
-NONE NONE Ghost
-NONE NONE Nymeria
-NONE NONE Cersei Lannister
-NONE NONE Jaime Lannister
-NONE NONE Bébé de Cersei
-NONE NONE Tyrion Lannister
-NONE NONE Theon Greyjoy
-NONE NONE Yara Greyjoy
-MORT NONE Euron Greyjoy
-NONE NONE Melisandre
-NONE NONE Jorah Mormont
-NONE NONE Varys
-NONE NONE Grey Worm
-NONE NONE Daario Naharis
-NONE NONE The Mountain
-NONE NONE The Hound
-NONE NONE Samwell Tarley
-NONE NONE Gilly
-NONE NONE Sam (Enfant)
-NONE NONE Brienne of Tarth
-NONE NONE Davos Seaworth
-NONE NONE Bronn
-NONE NONE Podrick Payne
-NONE NONE Beric Dondarrion
-NONE NONE Tormund Giantsbane
-NONE NONE Gendry
-NONE NONE Robin Arryn
-NONE NONE Edmure Tully
-NONE NONE Jaqen H’ghar
-
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+VIVANT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+MORT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+MORT FALSE Sansa Stark
+MORT TRUE Ghost
+NULL NULL Nymeria
+MORT TRUE Cersei Lannister
+MORT TRUE Jaime Lannister
+NULL NULL Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+MORT FALSE Yara Greyjoy
+MORT TRUE Euron Greyjoy
+VIVANT FALSE Melisandre
+MORT FALSE Jorah Mormont
+MORT FALSE Varys
+VIVANT FALSE Grey Worm
+MORT FALSE Daario Naharis
+MORT FALSE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+VIVANT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+MORT FALSE Brienne of Tarth
+NULL NULL Davos Seaworth
+NULL NULL Bronn
+NULL NULL Podrick Payne
+NULL NULL Beric Dondarrion
+NULL NULL Tormund Giantsbane
+NULL NULL Gendry
+NULL NULL Robin Arryn
+NULL NULL Edmure Tully
+NULL NULL Jaqen H’ghar
 

@@ -1,6 +1,7 @@
 public class Main{
 
 	public static void main(String[] args){
+		String fileResultat = "File/Result.txt";
 		//Read of the args
 		int nb_args = args.length ;
 		System.out.println("nb args="+nb_args);
@@ -58,21 +59,17 @@ public class Main{
 			//Lecture des pax(s) 
 
 			for(int k=start;k<end+1;k++){
-				String file = "Pax/pax"+k+".txt";
-				ReaderDeathnote pax = new ReaderDeathnote(file);
-				ReaderDeathnote result = new ReaderDeathnote("result.txt");
+				String filePax = "Pax/pax"+k+".txt";
+				String fileScore = "Score/scorePax"+k+".txt";
+				ReaderDeathnote pax = new ReaderDeathnote(filePax);
+				ReaderDeathnote result = new ReaderDeathnote(fileResultat);
 
-				Writer score = new Writer("Score/scorePax"+k+".txt");
+				Writer score = new Writer(fileScore);
 
 				//Fonction principale
 				Checker.checkAll(pax,result,score);
 
  				score.close();
-			}
-
-			int [] tab = new int [1];
-			for(int l = 0;l<5;l++){
-				System.out.println(tab[l]);
 			}
 		}
  	} 

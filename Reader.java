@@ -33,7 +33,7 @@ class Reader{
 
 class ReaderDeathnote{
 
-	public int nbQuestion = 7;
+	public int nbQuestion = 8;
 	public int nbPers = 36;
 
     public String name;   

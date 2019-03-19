@@ -1,48 +1,47 @@
-RESULTAT
+0vierge.txt
 ###
-NONE
-NONE
-NONE
-NONE
-NONE
-NONE
-NONE
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
 ###
-NONE NONE Daenerys Targaryen
-NONE NONE Drogon
-NONE NONE Rhaegal
-NONE NONE Jon Snow
-NONE NONE Arya Stark
-NONE NONE Bran Stark
-NONE NONE Sansa Stark
-NONE NONE Ghost
-NONE NONE Nymeria
-NONE NONE Cersei Lannister
-NONE NONE Jaime Lannister
-NONE NONE Bébé de Cersei
-NONE NONE Tyrion Lannister
-NONE NONE Theon Greyjoy
-NONE NONE Yara Greyjoy
-NONE NONE Euron Greyjoy
-NONE NONE Melisandre
-NONE NONE Jorah Mormont
-NONE NONE Varys
-NONE NONE Grey Worm
-NONE NONE Daario Naharis
-NONE NONE The Mountain
-NONE NONE The Hound
-NONE NONE Samwell Tarley
-NONE NONE Gilly
-NONE NONE Sam (Enfant)
-NONE NONE Brienne of Tarth
-NONE NONE Davos Seaworth
-NONE NONE Bronn
-NONE NONE Podrick Payne
-NONE NONE Beric Dondarrion
-NONE NONE Tormund Giantsbane
-NONE NONE Gendry
-NONE NONE Robin Arryn
-NONE NONE Edmure Tully
-NONE NONE Jaqen H’ghar
-
-
+NULL NULL Daenerys Targaryen
+NULL NULL Drogon
+NULL NULL Rhaegal
+NULL NULL Jon Snow
+NULL NULL Arya Stark
+NULL NULL Bran Stark
+NULL NULL Sansa Stark
+NULL NULL Ghost
+NULL NULL Nymeria
+NULL NULL Cersei Lannister
+NULL NULL Jaime Lannister
+NULL NULL Bébé de Cersei
+NULL NULL Tyrion Lannister
+NULL NULL Theon Greyjoy
+NULL NULL Yara Greyjoy
+NULL NULL Euron Greyjoy
+NULL NULL Melisandre
+NULL NULL Jorah Mormont
+NULL NULL Varys
+NULL NULL Grey Worm
+NULL NULL Daario Naharis
+NULL NULL The Mountain
+NULL NULL The Hound
+NULL NULL Samwell Tarley
+NULL NULL Gilly
+NULL NULL Sam (Enfant)
+NULL NULL Brienne of Tarth
+NULL NULL Davos Seaworth
+NULL NULL Bronn
+NULL NULL Podrick Payne
+NULL NULL Beric Dondarrion
+NULL NULL Tormund Giantsbane
+NULL NULL Gendry
+NULL NULL Robin Arryn
+NULL NULL Edmure Tully
+NULL NULL Jaqen H’ghar
