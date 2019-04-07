@@ -6,25 +6,27 @@ public class Checker{
 
 
 	public static String checkAll(ReaderDeathnote pax, ReaderDeathnote result,Writer score){
-		String content ="";
-		int points = 0;
-		//System.out.println("### Resultat Question ###");
-		score.write("### Resultat Question ###\n");
-		points = Checker.checkQuestion(points,pax.question,result.question,score);
-		//System.out.println("### Resultat Deathnote ###");
-		score.write("### Resultat Deathnote ###\n");
-		points = Checker.checkDeathNote(points,pax.deathnote,result.deathnote,score);
- 		//System.out.println(points);
-		score.write("Total: "+points);
+		Pax paxInfo = new Pax();
+		//calcule les points des questions
+		paxInfo.addContent("### Resultat Question ###\n");
+		Checker.checkQuestion(paxInfo,pax.question,result.question);
+		//calcule les points du deathnote
+		paxInfo.addContent("### Resultat Deathnote ###\n");
+		Checker.checkDeathNote(paxInfo,pax.deathnote,result.deathnote);
+		//total des points
+		String content = "Total: "+paxInfo.getPoints()+"\n"+paxInfo.getContent();
+		System.out.println(content);
+		score.write(content);
 		return content;
 	} 
 
-	public static int checkQuestion(int points,String[] reponse,String[] correction,Writer score) {
+	public static int checkQuestion(Pax pax,String[] reponse,String[] correction) {
 		String content = "";
+		int points = 0;
 		int taille = reponse.length;
 		if(taille != correction.length){
 			System.out.println("Error");
-			return 0;
+			return -1;
 		}
 		for(int i = 0;i<taille;i++){
 			if(!correction[i].equals("NULL")){
@@ -43,18 +45,20 @@ public class Checker{
 				content += "Question : NULL "+"\n";
 			}
 		}
-		System.out.println(content);
-		score.write(content);
-		return points;
+		//System.out.println(content);
+		pax.addContent(content);
+		pax.addPoints(points);
+		return 0;
 	} 
 
-	public static int checkDeathNote(int points, String[][] deathnote, String[][] correction,Writer score){
+	public static int checkDeathNote(Pax pax,String[][] deathnote, String[][] correction){
 		int taille = deathnote.length;
 		String content = "";
+		int points = 0;
 
 		if(taille != correction.length){
 			System.out.println("Error");
-			return 0;
+			return -1;
 		}
 
 		for(int i = 0;i<taille;i++){
@@ -100,9 +104,10 @@ public class Checker{
 				content += correction[i][0]+"\n";
 			}
 		}
-		System.out.println(content);
-		score.write(content);
-		return points;
+		//System.out.println(content);
+		pax.addContent(content);
+		pax.addPoints(points);
+		return 0;
 	}
 	
 }
