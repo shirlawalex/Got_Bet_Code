@@ -1,0 +1,31 @@
+Dossier:
+Pax : l'ensemble des bulletins de vote. "0vierge.txt" est le fichier de base.
+Bulletin : les documents en papier et règle.
+File :
+	- "Personnage.txt" l'ensemble des personnages du deathnote
+	- "Question.txt" les questions du jeux
+	- "Result.txt" les resultats du pari, fichier tampon pour calculer les score
+	- "Index.txt" le nom de tous les participants, mise à jour manuel **PAS FONCTIONNEL**
+
+
+### ENREGISTRER UN PAX 
+$java Register "numero_pax"
+
+### GENERER LE SCORE D'UN PAX
+$java Main args
+
+voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
+-> tous les pax de 0 juqu'à "numero_pax"
+":numero_pax"
+
+-> tous les pax de "numero_pax" jusqu'à la constante "end" (pas fonctionnel)
+"numero_pax:"
+
+-> tous les pax de "n" à "m"
+"n:m"
+
+-> le pax "numero_pax"
+"numero_pax"
+
+### CLASSER LE SCORE DES PARTICPANTS 
+$java Score 

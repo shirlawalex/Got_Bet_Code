@@ -22,12 +22,14 @@ public class Main{
 				//args[i].substring(1,len-1);
 				end = Integer.parseInt(args[i].substring(1,len));
 				System.out.println("debut: "+start+", fin: "+end);
+				System.out.println("Error : nombre limite de pax non connu");
 			}else{
 				if(args[i].charAt(len-1) == ':'){
 					System.out.println("Case 2 : All pax from n to last pax");
 					//Case 2 : All pax from n to last pax
 					end = -1;
 					start = Integer.parseInt(args[i].substring(0,len-1));
+					System.out.println("debut: "+start+", fin: "+end);
 					System.out.println("Error : nombre limite de pax non connu");
 				}else{
 					boolean suite = false;

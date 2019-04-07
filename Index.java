@@ -10,7 +10,7 @@ public class Index{
 	static String [] content;
 	
 	public static int init(){
-		
+		return 0;
 	} 
 	public static int maj(int numero){
 

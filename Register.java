@@ -47,9 +47,14 @@ public class Register{
 				throw new Exception("pas le bon numero du pax");
 			}
 
-
+			//NOM
+			System.out.println("Quel est ton nom? :");
+			String nom = System.console().readLine();
+			if(nom.equals("")){nom = "UNKNOWN_"+args[0];} 
+			content += nom +"\n###\n";
+			
 			//Questionnaire
-			content = questionnaire(listePersonnage,listeQuestion);
+			content += questionnaire(listePersonnage,listeQuestion);
 		
 			//ecriture du questionnaire
 			System.out.println(content);
@@ -65,10 +70,7 @@ public class Register{
 	//Questionnaire
 	public static String questionnaire(String[] personnage, String[] question){
 		String content = "";
-		//NOM
-		System.out.println("Quel est ton nom? :");
-		content += System.console().readLine() +"\n###\n";
-
+		
 		//QUESTION
 		int i = 0;
 		while(i<nbQuestion){
