@@ -1,13 +1,14 @@
-Negationniste:0
+1-Negationniste, Total:1
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
+Reponse:NON correction:OUI
+Reponse:NON correction:OUI
+Reponse:NON correction:OUI
+Reponse:NON correction:NON
+	points =0+1
 ### Resultat Deathnote ###
 NULL
 NULL
