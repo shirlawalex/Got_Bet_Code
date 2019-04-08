@@ -1,3 +1,4 @@
+Negationniste:0
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
@@ -44,4 +45,3 @@ NULL
 NULL
 NULL
 NULL
-Total: 0
