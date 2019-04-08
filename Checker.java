@@ -14,7 +14,7 @@ public class Checker{
 		paxInfo.addContent("### Resultat Deathnote ###\n");
 		Checker.checkDeathNote(paxInfo,pax.deathnote,result.deathnote);
 		//total des points
-		String content = pax.name+":"+paxInfo.getPoints()+"\n"+paxInfo.getContent();
+		String content = pax.name+", Total:"+paxInfo.getPoints()+"\n"+paxInfo.getContent();
 		System.out.println(content);
 		score.write(content);
 		return content;

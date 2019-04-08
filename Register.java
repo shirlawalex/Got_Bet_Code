@@ -51,7 +51,7 @@ public class Register{
 			System.out.println("Quel est ton nom? :");
 			String nom = System.console().readLine();
 			if(nom.equals("")){nom = "UNKNOWN_"+args[0];} 
-			content += nom +"\n###\n";
+			content += args[0]+"-"+nom +"\n###\n";
 			
 			//Questionnaire
 			content += questionnaire(listePersonnage,listeQuestion);

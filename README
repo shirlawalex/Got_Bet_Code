@@ -21,11 +21,12 @@ voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
 -> tous les pax de "numero_pax" jusqu'à la constante "end" (pas fonctionnel)
 "numero_pax:"
 
--> tous les pax de "n" à "m"
+-> tous les x de "n" à "m"
 "n:m"
 
 -> le pax "numero_pax"
 "numero_pax"
 
-### CLASSER LE SCORE DES PARTICPANTS 
+### CLASSER LE SCORE DES PARTICPANTS ET ENREGISTER DANS LE FICHIER File/Score.txt
+
 $java Score 
