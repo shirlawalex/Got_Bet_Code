@@ -1,4 +1,5 @@
 import java.util.*;
+import java.io.*;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -40,8 +41,8 @@ class ReaderDeathnote{
     public String [] question = new String[nbQuestion];
     public String [][] deathnote = new String[nbPers][2];
 
-    public ReaderDeathnote(String fileName){
-        try{
+    public ReaderDeathnote(String fileName) throws Exception {
+        //try{
             InputStream flux = new FileInputStream(fileName);    //Pour linstant changement manuel des textes
             InputStreamReader lecture = new InputStreamReader(flux);
             BufferedReader buff = new BufferedReader(lecture);
@@ -62,10 +63,10 @@ class ReaderDeathnote{
             }
 
             buff.close();
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
+        //}
+        //catch (Exception e){
+        //    e.printStackTrace();
+        //}
     }
 
 

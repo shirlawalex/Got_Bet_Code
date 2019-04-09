@@ -1,3 +1,5 @@
+import java.io.*;
+
 public class Main{
 
 	public static void main(String[] args){
@@ -63,15 +65,20 @@ public class Main{
 			for(int k=start;k<end+1;k++){
 				String filePax = "Pax/pax"+k+".txt";
 				String fileScore = "Score/scorePax"+k+".txt";
-				ReaderDeathnote pax = new ReaderDeathnote(filePax);
-				ReaderDeathnote result = new ReaderDeathnote(fileResultat);
+				try{
+					ReaderDeathnote pax = new ReaderDeathnote(filePax);
+					ReaderDeathnote result = new ReaderDeathnote(fileResultat);
 
-				Writer score = new Writer(fileScore);
+					Writer score = new Writer(fileScore);
 
-				//Fonction principale
-				Checker.checkAll(pax,result,score);
+					//Fonction principale
+					Checker.checkAll(pax,result,score);
 
- 				score.close();
+	 				score.close();
+				}catch(Exception e){
+					//e.printStackTrace();
+					System.out.println("Pax numero "+k+" n'existe pas");
+				}
 			}
 		}
  	} 
