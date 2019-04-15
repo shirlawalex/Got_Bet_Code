@@ -101,16 +101,23 @@ public class Register{
 			System.out.println(personnage[j]);
 			System.out.println("Vivant ? [v] Mort ? [m] Abstention ? [*]");
 			int tmp = verif();
-			String answer = tmp == -1 ? "NULL" : tmp == 0 ? "VIVANT" : "MORT" ;
-			if(tmp == -1){
+			String answer = tmp == 0 ? "NULL" : tmp == 1 || tmp == -1 ? "VIVANT" : "MORT" ;
+			if(tmp == 0){
 				System.out.println("Vous voulez vraiment vous abstenir pour ce personnage? [O/n]");
 				if(confirmation()){
 					content += "NULL NULL "+personnage[j]+"\n";	
 					j ++;
 				}else System.out.println("Recommence");
 			}else{
-				System.out.println("Marcheur blanc ? [o/N]");
-				String zombie = deconfirmation() ? "FALSE" : "TRUE";
+				String zombie = "";
+				//Si tmp est supérieur à zero alors on verifie pour les marcheurs blanc
+				//sinon c'est d'office false
+				if(tmp > 0){
+					System.out.println("Marcheur blanc ? [o/N]");
+					zombie = deconfirmation() ? "FALSE" : "TRUE";
+				}else{
+					zombie = "FALSE";
+				}
 				System.out.println("Recap Do you mean : "+answer+" "+zombie+" ? [O/n]");
 				if(confirmation()){
 					content += answer+" "+zombie+" "+personnage[j]+"\n";  
@@ -154,29 +161,47 @@ public class Register{
 
 	//Question avec comme reponse [v/m/*] (* n'importe quoi)
 	public static int verif(){
-		String answer = System.console().readLine().toLowerCase();
+		String answer = System.console().readLine();
 		
-		switch(answer.toLowerCase()){
+		switch(answer){
 			case "v" :
-			case "vivant" :
+			case "vivant":
+			case "vivante":
 			case "vie": 
  			case "y" :
 			case "o" :
 			case "oui": 
 			case "yes":
-				return 0;
+				return 1;
+			case "V" :
+			case "VIVANT" :
+			case "VIVANTE" :
+			case "VIE": 
+ 			case "Y" :
+			case "O":
+			case "OUI": 
+			case "YES":
+				return - 1;
 			case "m" :
 			case "mort" :
 			case "dead" :
 			case "morte" :
-			case  "n" :
+			case "n" :
 			case "non": 
 			case "no":
-				return 1;
+				return 2;
+			case "M" :
+			case "MORT" :
+			case "DEAD" :
+			case "MORTE" :
+			case "N" :
+			case "NON": 
+			case "NO":
+				return -2;
 			default:
 				break;
 		}	
-		return -1;
+		return 0;
 	}
 	//Quetion avec comme reponse [O/n]
 	public static boolean confirmation(){

@@ -29,10 +29,24 @@ public class Score{
 				{	
 					//System.out.println(names_file[i]); 
 					Reader file = new Reader(name_folder+names_file[i]);
-					String line = file.readLine();
-					//System.out.println(line);
-					String[] result = line.split(":");
-					tab_tampon[i] = result;
+					if(file.read() == -1){
+						System.out.println("File "+names_file[i]+" empty");
+						String [] result = {"vide","0"};;
+						tab_tampon[i] = result;
+					}else{
+						String line = file.readLine();
+						//System.out.println(line);
+						String[] result = line.split(":");
+						if(result.length == 2){
+							tab_tampon[i] = result;
+						}else{
+							String[] result_tmp = {line,"0"};
+							tab_tampon[i] = result_tmp;
+							//System.out.println(" pax n"+i+", name:"+tab_tampon[i][0]+":"+tab_tampon[i][1]);
+
+						}
+					}
+					file.close();
 				}
 
 

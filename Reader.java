@@ -30,6 +30,24 @@ class Reader{
         }
         return ligne;
     }
+
+    public int read(){
+    	try{
+    		return buff.read();
+    	}catch(IOException e){
+    		return -1;
+    	}
+    }
+
+    public void close(){
+    	 try {
+                if (buff != null)
+                    buff.close();
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+    }
+
 }
 
 class ReaderDeathnote{
@@ -68,6 +86,5 @@ class ReaderDeathnote{
         //    e.printStackTrace();
         //}
     }
-
 
 }
