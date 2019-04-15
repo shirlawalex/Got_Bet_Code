@@ -1,47 +1,47 @@
-1-Emma Jouy
+5-Paul BORNET
 ###
+Varys
+Brienne of Tarth
 Sansa Stark
-Yara Greyjoy
-Jon Snow
 OUI
-NON
+OUI
 OUI
 OUI
 NON
 ###
 VIVANT FALSE Daenerys Targaryen
 VIVANT FALSE Drogon
-NULL NULL Rhaegal
-VIVANT FALSE Jon Snow
-VIVANT FALSE Arya Stark
+MORT FALSE Rhaegal
+MORT TRUE Jon Snow
+MORT FALSE Arya Stark
 VIVANT FALSE Bran Stark
 VIVANT FALSE Sansa Stark
 MORT FALSE Ghost
-NULL NULL Nymeria
+MORT FALSE Nymeria
 MORT FALSE Cersei Lannister
-VIVANT FALSE Jaime Lannister
-MORT FALSE Bébé de Cersei
+MORT FALSE Jaime Lannister
+MORT TRUE Bébé de Cersei
 VIVANT FALSE Tyrion Lannister
 MORT FALSE Theon Greyjoy
 MORT FALSE Yara Greyjoy
 MORT FALSE Euron Greyjoy
-MORT FALSE Melisandre
+MORT TRUE Melisandre
 VIVANT FALSE Jorah Mormont
 VIVANT FALSE Varys
-VIVANT FALSE Grey Worm
+MORT FALSE Grey Worm
 MORT FALSE Daario Naharis
 MORT FALSE The Mountain
 VIVANT FALSE The Hound
 VIVANT FALSE Samwell Tarley
 MORT FALSE Gilly
-VIVANT FALSE Sam (Enfant)
-VIVANT FALSE Brienne of Tarth
-VIVANT FALSE Davos Seaworth
-MORT FALSE Bronn
+MORT FALSE Sam (Enfant)
+MORT FALSE Brienne of Tarth
+MORT FALSE Davos Seaworth
+VIVANT FALSE Bronn
 VIVANT FALSE Podrick Payne
 MORT FALSE Beric Dondarrion
 MORT FALSE Tormund Giantsbane
-VIVANT FALSE Gendry
+MORT FALSE Gendry
 VIVANT FALSE Robin Arryn
 MORT FALSE Edmure Tully
-VIVANT FALSE Jaqen H’ghar
+MORT FALSE Jaqen H’ghar

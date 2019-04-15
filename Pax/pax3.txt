@@ -1,0 +1,47 @@
+3-David RIBOH
+###
+Varys
+Jaime Lannister
+Bran Stark
+OUI
+NON
+OUI
+NON
+NON
+###
+MORT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+MORT FALSE Sansa Stark
+MORT TRUE Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+MORT FALSE Jaime Lannister
+VIVANT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+VIVANT FALSE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+VIVANT FALSE Melisandre
+MORT TRUE Jorah Mormont
+VIVANT FALSE Varys
+MORT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
+MORT FALSE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+VIVANT FALSE Brienne of Tarth
+MORT FALSE Davos Seaworth
+VIVANT FALSE Bronn
+VIVANT FALSE Podrick Payne
+VIVANT FALSE Beric Dondarrion
+MORT FALSE Tormund Giantsbane
+MORT FALSE Gendry
+VIVANT FALSE Robin Arryn
+VIVANT FALSE Edmure Tully
+MORT FALSE Jaqen H’ghar

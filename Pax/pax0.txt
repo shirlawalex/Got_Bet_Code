@@ -1,13 +1,13 @@
-SHIRLAW
+0-SHIRLAW
 ###
-Daenerys Targaryen
+Sansa Stark
 Brienne of Tarth
 Arya Stark
-NON
+OUI
 NON
 OUI
 OUI
-NON
+OUI
 ###
 VIVANT FALSE Daenerys Targaryen
 VIVANT FALSE Drogon
@@ -24,9 +24,9 @@ NULL NULL Bébé de Cersei
 VIVANT FALSE Tyrion Lannister
 MORT FALSE Theon Greyjoy
 MORT FALSE Yara Greyjoy
-MORT TRUE Euron Greyjoy
+MORT FALSE Euron Greyjoy
 VIVANT FALSE Melisandre
-MORT FALSE Jorah Mormont
+MORT TRUE Jorah Mormont
 MORT FALSE Varys
 VIVANT FALSE Grey Worm
 MORT FALSE Daario Naharis

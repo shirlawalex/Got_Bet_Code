@@ -1,0 +1,19 @@
+8-Octave CALONI
+###
+Jon Snow
+Yara Greyjoy
+Jon Snow
+OUI
+NON
+OUI
+NON
+NON
+###
+MORT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+VIVANT FALSE Sansa Stark
+MORT FALSE Ghost
