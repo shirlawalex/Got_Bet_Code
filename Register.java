@@ -4,13 +4,40 @@ import java.io.*;
 
 public class Register{
 	//Constante
+	static String canceled = "back";
 	static String fileQuestion = "File/Question.txt";
 	static String fileIndex = "File/Index.txt";
 	static String fileCharacter = "File/Personnage.txt";
 	static int nbQuestion = 8;  
-	static int nbCharacter = 36+1; //36 + 1 "Personne"
-	static String [] yesNoQuestions = {"OUI","NON","NULL"};
+	static int nbCharacter = 36+2; //36 + 2 "Personne","canceled","Daenerys",etc ..
+	static String [] yesNoQuestions = {"OUI","NON","NULL",canceled}; 
 
+	//Le fichier final est stocké sous forme de tableau avant d'etre imprimer
+	//fonction d'initialisatio
+	public static String[] init_content(String[] listePersonnage){
+		String [] ret = new String[47];
+		ret[0] = "UNFINISHED";
+		ret[1] = "###";
+		ret[10] = "###";
+		for(int i = 2;i<10;i++){
+			ret[i] = "NULL";
+		}
+		for(int i = 11;i<47;i++){
+			ret[i] = "NULL NULL "+listePersonnage[i-9];
+		}
+		return ret;
+	} 
+
+	public static void write(String num,String[] content){
+		Writer pax = new Writer("Pax/paxTEST"+num+".txt");	
+		String stringContent = "";
+		for(int i=0;i<content.length;i++){
+			stringContent += content[i]+"\n";
+		}
+		System.out.println(stringContent);
+		pax.write(stringContent);
+		pax.close();
+	}
 
 	public static void main (String[] args) 
 		throws Exception{
@@ -25,18 +52,21 @@ public class Register{
 		String[] listePersonnage = new String[nbCharacter];
 		String[] listeQuestion = new String [nbQuestion];
 		listePersonnage[0] = "Personne";
-		for(int i = 1;i<nbCharacter;i++){
+		listePersonnage[1] = canceled;
+		//Remplissage du tableau des noms de personnages par le fichier
+		for(int i = 2;i<nbCharacter;i++){
 			listePersonnage[i] = character.readLine();
-			System.out.println(i+":"+listePersonnage[i]);
+			//System.out.println(i+":"+listePersonnage[i]);
 		}
 		for(int i=0;i<nbQuestion;i++){
 			listeQuestion[i] = question.readLine();
-			System.out.println(listeQuestion[i]);
+			//System.out.println(listeQuestion[i]);
 		}
 
+		//Contenu
+		String [] tabContent = init_content(listePersonnage);
 
 		//Boucle principale		
-		Writer pax;
 		String content = "";
 		boolean end = false;
 		while(!end){
@@ -52,15 +82,14 @@ public class Register{
 			String nom = System.console().readLine();
 			if(nom.equals("")){nom = "UNKNOWN_"+args[0];} 
 			content += args[0]+"-"+nom +"\n###\n";
+			tabContent[0] = args[0]+"-"+nom;
 			
 			//Questionnaire
-			content += questionnaire(listePersonnage,listeQuestion);
+			questionnaire(tabContent,listePersonnage,listeQuestion);
 		
 			//ecriture du questionnaire
-			System.out.println(content);
-			pax = new Writer("Pax/pax"+args[0]+".txt");
-			pax.write(content);
-			pax.close();
+			write(args[0],tabContent);
+			
 			//re-start loop
 			end = true;						
 		}
@@ -74,7 +103,7 @@ public class Register{
 		//QUESTION
 		int i = 0;
 		while(i<nbQuestion){
-			System.out.println("Question n"+i+": "+question[i]);
+			System.out.println("Question n"+(i+1)+": "+question[i]);
 			String answer = System.console().readLine();
 			String result = "NULL";
 			if(i<3){
@@ -84,52 +113,58 @@ public class Register{
 				//Reponse OUI ou NON
 				result = searchName(yesNoQuestions,answer);
 			}
-			System.out.println("Recap Do you mean: "+result+"? [O/n]");
-		
-			if(confirmation()){
+			if(result.equals(canceled)){
+				i = (i<=0)? 0: i - 1;
+				System.out.println("Refaire la question précédante");
+			}else{
+				System.out.println("\tReponse: "+result);
 				content += result+"\n";  
 				i++;
 			}
-			else System.out.println("Recommence");
+
 		}
 		
 		content += "###\n";
 		//DEATHNOTE
-		int j = 1;
+		int j = 2;
 		
 		while(j<nbCharacter){
-			System.out.println(personnage[j]);
-			System.out.println("Vivant ? [v] Mort ? [m] Abstention ? [*]");
+			System.out.println("Personnage: "+personnage[j]);
+			System.out.println("Vivant ? [v], Mort ? [m], Abstention ? [*]");
 			int tmp = verif();
-			String answer = tmp == 0 ? "NULL" : tmp == 1 || tmp == -1 ? "VIVANT" : "MORT" ;
-			if(tmp == 0){
-				System.out.println("Vous voulez vraiment vous abstenir pour ce personnage? [O/n]");
-				if(confirmation()){
-					content += "NULL NULL "+personnage[j]+"\n";	
-					j ++;
-				}else System.out.println("Recommence");
+			if(tmp == 3){
+				//Retour à la réponse précédantes
+
 			}else{
-				String zombie = "";
-				//Si tmp est supérieur à zero alors on verifie pour les marcheurs blanc
-				//sinon c'est d'office false
-				if(tmp > 0){
-					System.out.println("Marcheur blanc ? [o/N]");
-					zombie = deconfirmation() ? "FALSE" : "TRUE";
+				String answer = tmp == 0 ? "NULL" : tmp == 1 || tmp == -1 ? "VIVANT" : tmp == 2 || tmp == -2 ? "MORT" : "ERROR" ;
+				if(tmp == 0){
+					System.out.println("Vous voulez vraiment vous abstenir pour ce personnage? [O/n]");
+					if(confirmation()){  
+						content += "NULL NULL "+personnage[j]+"\n";	
+						j ++;
+					}else System.out.println("Recommence");
 				}else{
-					zombie = "FALSE";
-				}
-				System.out.println("Recap Do you mean : "+answer+" "+zombie+" ? [O/n]");
-				if(confirmation()){
+					String zombie = "";
+					//Si tmp est supérieur à zero alors on verifie pour les marcheurs blanc
+					//sinon c'est d'office false
+					if(tmp > 0){
+						System.out.println("Marcheur blanc ? [o/N]");
+						zombie = deconfirmation() ? "FALSE" : "TRUE";
+					}else{
+						zombie = "FALSE";
+					}
+					System.out.println("\tRéponse: "+answer+" "+zombie);
 					content += answer+" "+zombie+" "+personnage[j]+"\n";  
 					j++;
-				} else System.out.println("Recommence");
+					
+				}
 			}
 		}
 
 		return content; 
 	}
 
-	//Retourne le nom qui a la meilleure correspondance avec l'othographe correcte
+	//Retourne l'element dans tab qui a la meilleure correspondance avec l'othographe correcte de answer
 	public static String searchName(String[] tab, String answer){
 		answer = answer.toLowerCase();
 		String nom = "NULL";
@@ -142,6 +177,7 @@ public class Register{
 				correct = answer.substring(k-1,k).equals(tab[i].toLowerCase().substring(k-1,k));
 				tmp = correct ? tmp +1 : tmp;
 			}
+			//if(tmp>0) System.out.println(tab[i]);
 			best[i] = tmp;
 		}	
 		int idx = max(best);
