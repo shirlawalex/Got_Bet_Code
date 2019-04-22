@@ -132,7 +132,7 @@ public class Register{
 			int tmp = verif();
 			if(tmp == 3){
 				//Retour à la réponse précédantes
-
+				j = (j<=2)? 2: j - 1;				
 			}else{
 				String answer = tmp == 0 ? "NULL" : tmp == 1 || tmp == -1 ? "VIVANT" : tmp == 2 || tmp == -2 ? "MORT" : "ERROR" ;
 				if(tmp == 0){
@@ -196,6 +196,8 @@ public class Register{
 		String answer = System.console().readLine();
 		
 		switch(answer){
+			case "back":
+				return 3;
 			case "v" :
 			case "vivant":
 			case "vivante":
