@@ -29,7 +29,7 @@ public class Register{
 	} 
 
 	public static void write(String num,String[] content){
-		Writer pax = new Writer("Pax/paxTEST"+num+".txt");	
+		Writer pax = new Writer("Pax/pax"+num+".txt");	
 		String stringContent = "";
 		for(int i=0;i<content.length;i++){
 			stringContent += content[i]+"\n";
@@ -97,8 +97,7 @@ public class Register{
 	}
 
 	//Questionnaire
-	public static String questionnaire(String[] personnage, String[] question){
-		String content = "";
+	public static void questionnaire(String[] tabContent,String[] personnage, String[] question){
 		
 		//QUESTION
 		int i = 0;
@@ -118,13 +117,12 @@ public class Register{
 				System.out.println("Refaire la question précédante");
 			}else{
 				System.out.println("\tReponse: "+result);
-				content += result+"\n";  
+				tabContent[i+2] = result;  
 				i++;
 			}
 
 		}
 		
-		content += "###\n";
 		//DEATHNOTE
 		int j = 2;
 		
@@ -140,7 +138,7 @@ public class Register{
 				if(tmp == 0){
 					System.out.println("Vous voulez vraiment vous abstenir pour ce personnage? [O/n]");
 					if(confirmation()){  
-						content += "NULL NULL "+personnage[j]+"\n";	
+						tabContent[j+9] = "NULL NULL "+personnage[j];	
 						j ++;
 					}else System.out.println("Recommence");
 				}else{
@@ -154,14 +152,12 @@ public class Register{
 						zombie = "FALSE";
 					}
 					System.out.println("\tRéponse: "+answer+" "+zombie);
-					content += answer+" "+zombie+" "+personnage[j]+"\n";  
+					tabContent[j+9] = answer+" "+zombie+" "+personnage[j];
 					j++;
 					
 				}
 			}
 		}
-
-		return content; 
 	}
 
 	//Retourne l'element dans tab qui a la meilleure correspondance avec l'othographe correcte de answer
