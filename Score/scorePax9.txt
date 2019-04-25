@@ -1,14 +1,13 @@
-N9-Margot Liegard, Total:1
+N9-Margot Liegard, Total:0
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Reponse:OUI correction:OUI
-	points =0+1
 Question : NULL 
-Reponse:NON correction:OUI
+Question : NULL 
+Question : NULL 
 ### Resultat Deathnote ###
 NULL
 NULL
