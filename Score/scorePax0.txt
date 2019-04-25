@@ -1,14 +1,13 @@
-N0-SHIRLAW, Total:1
+N0-SHIRLAW, Total:0
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Reponse:NON correction:OUI
-Reponse:OUI correction:OUI
-	points =0+1
-Reponse:OUI correction:NON
-Reponse:OUI correction:NON
+Question : NULL 
+Question : NULL 
+Question : NULL 
+Question : NULL 
 ### Resultat Deathnote ###
 NULL
 NULL

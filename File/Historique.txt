@@ -4,3 +4,7 @@ jeudi 25 avril 2019, 18:49:45 (UTC+0200)
  create mode 100644 File/Historique.txt
  create mode 100644 File/historique.txt
 jeudi 25 avril 2019, 18:51:15 (UTC+0200)
+[master 0b54652] calcul des scores
+ 21 files changed, 102 insertions(+), 77 deletions(-)
+ rewrite File/Score.txt (100%)
+jeudi 25 avril 2019, 18:51:54 (UTC+0200)

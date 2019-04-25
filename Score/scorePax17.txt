@@ -1,15 +1,13 @@
-N17-Alexis Verdeil, Total:2
+N17-Alexis Verdeil, Total:0
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Reponse:NON correction:OUI
-Reponse:OUI correction:OUI
-	points =0+1
-Reponse:OUI correction:NON
-Reponse:NON correction:NON
-	points =1+1
+Question : NULL 
+Question : NULL 
+Question : NULL 
+Question : NULL 
 ### Resultat Deathnote ###
 NULL
 NULL
