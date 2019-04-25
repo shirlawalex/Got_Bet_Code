@@ -1,19 +1,19 @@
 Classement:
-pax n0, name:16-Sawssen Hadded, Total:1
-pax n1, name:0-SHIRLAW, Total:1
-pax n2, name:10-Morgane Meiranesio, Total:1
-pax n3, name:4-Manon Olivier, Total:0
-pax n4, name:15-Jules Rotivel, Total:0
-pax n5, name:1-Emma Jouy, Total:0
-pax n6, name:14-Julia Reyl, Total:0
-pax n7, name:17-Alexis Verdeil, Total:0
-pax n8, name:9-Margot Liegard, Total:0
-pax n9, name:13-Marie-Amelie Gaston, Total:0
-pax n10, name:2-Manon LECLERC, Total:0
-pax n11, name:8-Octave Caloni, Total:0
-pax n12, name:10-Anne-Elisabeth, Total:0
-pax n13, name:12-Jimmy Ho, Total:0
-pax n14, name:5-Paul BORNET, Total:0
-pax n15, name:3-David RIBOH, Total:0
-pax n16, name:6-Marina JUMEAU, Total:0
-pax n17, name:7-ARTHUR CALONI, Total:0
+pax n0, name:16-Sawssen Hadded, Total:2
+pax n1, name:0-SHIRLAW, Total:2
+pax n2, name:10-Morgane Meiranesio, Total:2
+pax n3, name:4-Manon Olivier, Total:1
+pax n4, name:1-Emma Jouy, Total:1
+pax n5, name:17-Alexis Verdeil, Total:1
+pax n6, name:9-Margot Liegard, Total:1
+pax n7, name:13-Marie-Amelie Gaston, Total:1
+pax n8, name:2-Manon LECLERC, Total:1
+pax n9, name:8-Octave Caloni, Total:1
+pax n10, name:10-Anne-Elisabeth, Total:1
+pax n11, name:12-Jimmy Ho, Total:1
+pax n12, name:5-Paul BORNET, Total:1
+pax n13, name:3-David RIBOH, Total:1
+pax n14, name:6-Marina JUMEAU, Total:1
+pax n15, name:7-ARTHUR CALONI, Total:1
+pax n16, name:15-Jules Rotivel, Total:0
+pax n17, name:14-Julia Reyl, Total:0

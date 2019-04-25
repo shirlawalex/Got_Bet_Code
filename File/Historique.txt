@@ -4,3 +4,8 @@ git commit -m calcul des scores
  22 files changed, 70 insertions(+), 54 deletions(-)
  rewrite File/Score.txt (98%)
 jeudi 25 avril 2019, 18:56:00 (UTC+0200)
+ commit -m calcul des scores
+[master 1c2a2b8] calcul des scores
+ 22 files changed, 65 insertions(+), 71 deletions(-)
+ rewrite File/Score.txt (98%)
+jeudi 25 avril 2019, 18:58:08 (UTC+0200)
