@@ -31,7 +31,7 @@ public class Main{
 				if(args[i].length()==1){
 					System.out.println("Case 0 \":\": All pax");
 					start = 0;
-					//end = -1;
+					end = end -1;
 				}else{
 					System.out.println("Case 1 \":n\": All pax from 0 to n");
 					//Case 1 : All pax from 0 to n
@@ -90,6 +90,7 @@ public class Main{
 
 			//Lecture des pax(s) 
 
+			System.out.println("Liste des pax fait:");
 			for(int k=start;k<end+1;k++){
 				String filePax = "Pax/pax"+k+".txt";
 				String fileScore = "Score/scorePax"+k+".txt";
@@ -100,14 +101,16 @@ public class Main{
 					Writer score = new Writer(fileScore);
 
 					//Fonction principale
-					Checker.checkAll(pax,result,score);
-
+					String nom = Checker.checkAll(pax,result,score);
+					System.out.println(nom);
 	 				score.close();
+
 				}catch(Exception e){
 					//e.printStackTrace();
 					System.out.println("Pax numero "+k+" n'existe pas");
 				}
 			}
+			System.out.println("");
 		}
  	} 
 	

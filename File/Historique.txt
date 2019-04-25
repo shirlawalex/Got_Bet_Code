@@ -9,3 +9,6 @@ jeudi 25 avril 2019, 18:56:00 (UTC+0200)
  22 files changed, 65 insertions(+), 71 deletions(-)
  rewrite File/Score.txt (98%)
 jeudi 25 avril 2019, 18:58:08 (UTC+0200)
+[master 139ce7f] calcul des scores
+ 21 files changed, 78 insertions(+), 57 deletions(-)
+ rewrite File/Score.txt (98%)

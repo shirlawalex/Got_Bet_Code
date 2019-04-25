@@ -35,7 +35,8 @@ public class Score{
 						tab_tampon[i] = result;
 					}else{
 						String line = file.readLine();
-						//System.out.println(line);
+						//System.out.println("lecture:"+line);
+						//la focntion readline ne lit pas le premiere et parfois les deux premiers caractères c'est inquietant 
 						String[] result = line.split(":");
 						if(result.length == 2){
 							tab_tampon[i] = result;
@@ -46,17 +47,17 @@ public class Score{
 
 						}
 					}
+					//System.out.println(tab_tampon[i][0]);
 					file.close();
 				}
 
 
-			String content = "";
+			String content = "Classement:\n";
 			tri_insertion_classement(tab_tampon);
 			for(int i=0;i<nbFiles;i++){
-				System.out.println("pax n"+i+", name:"+tab_tampon[i][0]+":"+tab_tampon[i][1]);
 				content += "pax n"+i+", name:"+tab_tampon[i][0]+":"+tab_tampon[i][1]+"\n";
-
 			}
+			System.out.println(content);
 			resultFile.write(content);
 		}
 		resultFile.close();

@@ -65,12 +65,14 @@ class ReaderDeathnote{
             InputStreamReader lecture = new InputStreamReader(flux);
             BufferedReader buff = new BufferedReader(lecture);
 
+            
             name = buff.readLine();
+            
             buff.readLine();
             for(int i = 0;i<nbQuestion;i++){
 	            question[i] = buff.readLine();
 	        }
-            System.out.println(buff.readLine());
+            buff.readLine(); //lis la ligne "###"
             for(int i = 0;i<nbPers;i++){
             	String  ligne = buff.readLine();
                 String [] tab;

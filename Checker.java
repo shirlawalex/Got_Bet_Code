@@ -13,11 +13,16 @@ public class Checker{
 		//calcule les points du deathnote
 		paxInfo.addContent("### Resultat Deathnote ###\n");
 		Checker.checkDeathNote(paxInfo,pax.deathnote,result.deathnote);
+		
 		//total des points
 		String content = pax.name+", Total:"+paxInfo.getPoints()+"\n"+paxInfo.getContent();
-		System.out.println(content);
+		
+		//ecriture
 		score.write(content);
-		return content;
+		//System.out.println(content);
+		
+		String ret = pax.name;
+		return ret;
 	} 
 
 	public static int checkQuestion(Pax pax,String[] reponse,String[] correction) {

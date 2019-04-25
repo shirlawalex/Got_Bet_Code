@@ -67,7 +67,6 @@ public class Register{
 		String [] tabContent = init_content(listePersonnage);
 
 		//Boucle principale		
-		String content = "";
 		boolean end = false;
 		while(!end){
 
@@ -81,8 +80,7 @@ public class Register{
 			System.out.println("Quel est ton nom? :");
 			String nom = System.console().readLine();
 			if(nom.equals("")){nom = "UNKNOWN_"+args[0];} 
-			content += args[0]+"-"+nom +"\n###\n";
-			tabContent[0] = args[0]+"-"+nom;
+			tabContent[0] = "N"+args[0]+"-"+nom;
 			
 			//Questionnaire
 			questionnaire(tabContent,listePersonnage,listeQuestion);

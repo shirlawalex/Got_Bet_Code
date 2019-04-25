@@ -47,6 +47,9 @@ Attention: une fois le questionnaire rempli vous ne pouvez pas faire back.
 $java Main args
 
 voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
+-> tous les pax 
+":"
+
 -> tous les pax de 0 juqu'à "numero_pax"
 ":numero_pax"
 
@@ -62,3 +65,14 @@ voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
 ############ CLASSER LE SCORE DES PARTICPANTS ET ENREGISTER DANS LE FICHIER File/Score.txt
 
 $java Score 
+
+
+#############################################################################
+Calculer tous les scores rapidement 
+$java Main : && java Score
+
+Ajouter dans git rapidement le calcul des scores 
+$git add Score Pax File && git commit -m "calcul des scores"
+
+Les deux en même temps
+$java Main : && java Score && echo ADD and COMMIT on git && date >> File/Historique.txt && git add Score File >> File/historique.txt && git commit -m "calcul des scores" >> File/Historique.txt
