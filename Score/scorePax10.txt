@@ -1,4 +1,4 @@
-N2-Manon LECLERC, Total:1
+N10-Morgane Meiranesio, Total:2
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
@@ -8,7 +8,8 @@ Question : NULL
 Reponse:OUI correction:OUI
 	points =0+1
 Reponse:OUI correction:NON
-Reponse:NON correction:OUI
+Reponse:OUI correction:OUI
+	points =1+1
 ### Resultat Deathnote ###
 NULL
 NULL

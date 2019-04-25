@@ -1,34 +1,49 @@
 EXPLICATION BRÈVE
 
-Les paris et les scores sont enregistrés comme des bases de donnée dans des fichiers.
-Un fichier par personne: 
+Les paris et les scores sont enregistrés comme des bases de donnée dans des fichiers. 
+Si vous voulez voir votre pari et le calcul de votre score, il vous suffit d'aller dans le fichier "Index.txt" situé dans le dosser "File/" votre numero. Puis de regarder vos fichiers correspondant.
+
+Un fichier par personne et par dossier: 
  - Les paris dans le dossier "Pax/" et chaque paris est dans un fichier comme "paxNUM.txt"
  - Les scores dans le dosser "Score/" et chaque score est dans un fichier comme "scorePaxNUM.txt"
+
+/!\  
+Le classement finale est dans le fichier "Score.txt" situé dans le dossier "File/".
 
 Les fichiers .java sont les programmes, ils faut les compiler et les lancer dans un terminal. 
 
 
-
+#############################################################################
+CONTENANCE DU GIT
 
 Dossier:
-Pax : l'ensemble des bulletins de vote. 
+Pax : l'ensemble des bulletins de vote.
+Score: les scores des paris 
 Bulletin : les documents en papier et règle.
 File :
+	- "Score.txt" le classement des scores
 	- "Personnage.txt" l'ensemble des personnages du deathnote
 	- "Question.txt" les questions du jeux
-	- "Result.txt" les resultats du pari, fichier tampon pour calculer les score
+	- "Result.txt" les resultat/reponse du pari, fichier tampon pour calculer les score.
 	- "Index.txt" le nom de tous les participants, mise à jour manuel **PAS FONCTIONNEL**
 
+#############################################################################
+EXECUTER LE PROGRAMME
 
-### ENREGISTRER UN PAX 
+############ ENREGISTRER UN PAX 
 $java Register "numero_pax"
--> repondre aux questions des raccourcis existent pour être plus rapide.
-	dans le 
-	dans le deathnote : 
+
+-> repondre aux questions, des raccourcis existent pour être plus rapide.
+	pour le questionnaire
+		- vous pouvez mettre juste une partie du nom, ex: "dae" et le nom qui semble etre le plus proche sera selectionné.
+	pour le deathnote : 
 		- M ou V permettent de sauter la question du marcheur blanc
 		- les choix proposé en majuscule sont les choix par defaut si aucune donnée n'est entrée 
+
+-> Vous pouvez écrire "back" pour revenir à la question précédantes, votre ancienne reponse est sauvergardé mais vous devrez quand meme ry repondre une deuxieme fois. (je n'ai pas eu le temps de resoudre ça).
+Attention: une fois le questionnaire rempli vous ne pouvez pas faire back.
 		
-### GENERER LE SCORE D'UN PAX
+############ GENERER LE SCORE D'UN PAX
 $java Main args
 
 voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
@@ -44,6 +59,6 @@ voici la liste des arguments et leurs fonctions, autant d'argument qu'on veut:
 -> le pax "numero_pax"
 "numero_pax"
 
-### CLASSER LE SCORE DES PARTICPANTS ET ENREGISTER DANS LE FICHIER File/Score.txt
+############ CLASSER LE SCORE DES PARTICPANTS ET ENREGISTER DANS LE FICHIER File/Score.txt
 
 $java Score 

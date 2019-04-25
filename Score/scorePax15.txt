@@ -1,13 +1,13 @@
-N2-Manon LECLERC, Total:1
+N15-Jules Rotivel, Total:1
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Reponse:OUI correction:OUI
+Reponse:NON correction:OUI
+Reponse:NON correction:NON
 	points =0+1
-Reponse:OUI correction:NON
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
 NULL

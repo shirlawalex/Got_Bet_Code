@@ -1,4 +1,4 @@
-N2-Manon LECLERC, Total:1
+N8-Octave Caloni, Total:2
 ### Resultat Question ###
 Question : NULL 
 Question : NULL 
@@ -7,7 +7,8 @@ Question : NULL
 Question : NULL 
 Reponse:OUI correction:OUI
 	points =0+1
-Reponse:OUI correction:NON
+Reponse:NON correction:NON
+	points =1+1
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
 NULL
