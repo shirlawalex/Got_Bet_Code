@@ -1,8 +1,8 @@
-pax n0, name:-Manon Olivier, Total:0
-pax n1, name:-Emma Jouy, Total:0
-pax n2, name:-Manon LECLERC, Total:0
-pax n3, name:-SHIRLAW, Total:0
-pax n4, name:-Paul BORNET, Total:0
-pax n5, name:-David RIBOH, Total:0
-pax n6, name:-Marina JUMEAU, Total:0
-pax n7, name:-ARTHUR CALONI, Total:0
+pax n0, name:-SHIRLAW, Total:2
+pax n1, name:-Manon Olivier, Total:1
+pax n2, name:-Emma Jouy, Total:1
+pax n3, name:-Manon LECLERC, Total:1
+pax n4, name:-Paul BORNET, Total:1
+pax n5, name:-David RIBOH, Total:1
+pax n6, name:-Marina JUMEAU, Total:1
+pax n7, name:-ARTHUR CALONI, Total:1

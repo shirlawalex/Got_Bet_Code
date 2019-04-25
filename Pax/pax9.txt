@@ -1,0 +1,47 @@
+9-Margot Liegard
+###
+Jon Snow
+Euron Greyjoy
+Jorah Mormont
+OUI
+OUI
+OUI
+OUI
+NON
+###
+VIVANT FALSE Daenerys Targaryen
+MORT FALSE Drogon
+VIVANT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+MORT FALSE Bran Stark
+MORT FALSE Sansa Stark
+VIVANT FALSE Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+MORT FALSE Jaime Lannister
+MORT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+MORT FALSE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+VIVANT FALSE Melisandre
+MORT FALSE Jorah Mormont
+MORT FALSE Varys
+MORT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
+MORT FALSE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+MORT FALSE Sam (Enfant)
+NULL NULL Brienne of Tarth
+MORT FALSE Davos Seaworth
+NULL NULL Bronn
+MORT FALSE Podrick Payne
+NULL NULL Beric Dondarrion
+NULL NULL Tormund Giantsbane
+NULL NULL Gendry
+NULL NULL Robin Arryn
+NULL NULL Edmure Tully
+NULL NULL Jaqen H’ghar

@@ -1,0 +1,47 @@
+10-Morgane Meiranesio
+###
+Daenerys Targaryen
+Brienne of Tarth
+Jon Snow
+OUI
+OUI
+OUI
+OUI
+OUI
+###
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+VIVANT TRUE Sansa Stark
+NULL NULL Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+MORT FALSE Jaime Lannister
+VIVANT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+VIVANT FALSE Theon Greyjoy
+MORT TRUE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+MORT FALSE Melisandre
+MORT FALSE Jorah Mormont
+VIVANT FALSE Varys
+VIVANT FALSE Grey Worm
+VIVANT TRUE Daario Naharis
+MORT TRUE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+MORT TRUE Brienne of Tarth
+MORT FALSE Davos Seaworth
+VIVANT TRUE Bronn
+VIVANT FALSE Podrick Payne
+MORT FALSE Beric Dondarrion
+MORT FALSE Tormund Giantsbane
+MORT FALSE Gendry
+MORT FALSE Robin Arryn
+MORT TRUE Edmure Tully
+VIVANT FALSE Jaqen H’ghar

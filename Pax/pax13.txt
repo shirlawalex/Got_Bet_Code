@@ -1,0 +1,47 @@
+13-Marie-Amelie Gaston
+###
+Jon Snow
+Davos Seaworth
+Jon Snow
+OUI
+OUI
+OUI
+OUI
+NON
+###
+MORT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+MORT TRUE Arya Stark
+VIVANT FALSE Bran Stark
+VIVANT FALSE Sansa Stark
+MORT FALSE Ghost
+MORT FALSE Nymeria
+VIVANT FALSE Cersei Lannister
+MORT TRUE Jaime Lannister
+VIVANT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT TRUE Theon Greyjoy
+MORT FALSE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+VIVANT FALSE Melisandre
+VIVANT FALSE Jorah Mormont
+MORT FALSE Varys
+NULL NULL Grey Worm
+NULL NULL Daario Naharis
+MORT FALSE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+MORT FALSE Brienne of Tarth
+MORT FALSE Davos Seaworth
+VIVANT FALSE Bronn
+VIVANT FALSE Podrick Payne
+VIVANT FALSE Beric Dondarrion
+VIVANT FALSE Tormund Giantsbane
+VIVANT FALSE Gendry
+MORT FALSE Robin Arryn
+MORT FALSE Edmure Tully
+VIVANT FALSE Jaqen H’ghar

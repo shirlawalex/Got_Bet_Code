@@ -1,0 +1,47 @@
+14-Julia Reyl
+###
+Arya Stark
+Jon Snow
+NULL
+OUI
+OUI
+NON
+NON
+NON
+###
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT TRUE Rhaegal
+MORT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+MORT TRUE Sansa Stark
+MORT FALSE Ghost
+MORT FALSE Nymeria
+VIVANT FALSE Cersei Lannister
+MORT TRUE Jaime Lannister
+MORT TRUE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+VIVANT FALSE Theon Greyjoy
+MORT TRUE Yara Greyjoy
+MORT TRUE Euron Greyjoy
+MORT FALSE Melisandre
+VIVANT FALSE Jorah Mormont
+VIVANT FALSE Varys
+MORT TRUE Grey Worm
+VIVANT FALSE Daario Naharis
+VIVANT FALSE The Mountain
+MORT FALSE The Hound
+MORT TRUE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+VIVANT FALSE Brienne of Tarth
+VIVANT FALSE Davos Seaworth
+MORT FALSE Bronn
+MORT FALSE Podrick Payne
+MORT TRUE Beric Dondarrion
+MORT TRUE Tormund Giantsbane
+MORT FALSE Gendry
+MORT FALSE Robin Arryn
+VIVANT FALSE Edmure Tully
+MORT FALSE Jaqen H’ghar

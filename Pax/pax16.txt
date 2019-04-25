@@ -1,0 +1,47 @@
+16-Sawssen Hadded
+###
+Daenerys Targaryen
+Sansa Stark
+Beric Dondarrion
+OUI
+OUI
+OUI
+NON
+OUI
+###
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+NULL NULL Bran Stark
+NULL NULL Sansa Stark
+MORT TRUE Ghost
+MORT FALSE Nymeria
+VIVANT FALSE Cersei Lannister
+MORT TRUE Jaime Lannister
+NULL NULL Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+NULL NULL Yara Greyjoy
+VIVANT FALSE Euron Greyjoy
+NULL NULL Melisandre
+VIVANT FALSE Jorah Mormont
+NULL NULL Varys
+VIVANT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
+VIVANT FALSE The Mountain
+MORT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+VIVANT FALSE Brienne of Tarth
+NULL NULL Davos Seaworth
+NULL NULL Bronn
+MORT FALSE Podrick Payne
+NULL NULL Beric Dondarrion
+MORT FALSE Tormund Giantsbane
+NULL NULL Gendry
+MORT TRUE Robin Arryn
+NULL NULL Edmure Tully
+MORT FALSE Jaqen H’ghar

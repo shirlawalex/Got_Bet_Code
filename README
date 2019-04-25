@@ -1,5 +1,17 @@
+EXPLICATION BRÈVE
+
+Les paris et les scores sont enregistrés comme des bases de donnée dans des fichiers.
+Un fichier par personne: 
+ - Les paris dans le dossier "Pax/" et chaque paris est dans un fichier comme "paxNUM.txt"
+ - Les scores dans le dosser "Score/" et chaque score est dans un fichier comme "scorePaxNUM.txt"
+
+Les fichiers .java sont les programmes, ils faut les compiler et les lancer dans un terminal. 
+
+
+
+
 Dossier:
-Pax : l'ensemble des bulletins de vote. "0vierge.txt" est le fichier de base.
+Pax : l'ensemble des bulletins de vote. 
 Bulletin : les documents en papier et règle.
 File :
 	- "Personnage.txt" l'ensemble des personnages du deathnote
@@ -10,7 +22,12 @@ File :
 
 ### ENREGISTRER UN PAX 
 $java Register "numero_pax"
-
+-> repondre aux questions des raccourcis existent pour être plus rapide.
+	dans le 
+	dans le deathnote : 
+		- M ou V permettent de sauter la question du marcheur blanc
+		- les choix proposé en majuscule sont les choix par defaut si aucune donnée n'est entrée 
+		
 ### GENERER LE SCORE D'UN PAX
 $java Main args
 

@@ -1,0 +1,47 @@
+10-Anne-Elisabeth
+###
+Sansa Stark
+Beric Dondarrion
+Drogon
+OUI
+NON
+OUI
+NON
+NON
+###
+MORT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+VIVANT FALSE Rhaegal
+MORT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+VIVANT FALSE Sansa Stark
+MORT TRUE Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+MORT FALSE Jaime Lannister
+MORT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT TRUE Theon Greyjoy
+MORT FALSE Yara Greyjoy
+MORT TRUE Euron Greyjoy
+VIVANT FALSE Melisandre
+MORT TRUE Jorah Mormont
+MORT FALSE Varys
+MORT TRUE Grey Worm
+MORT FALSE Daario Naharis
+MORT TRUE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+VIVANT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+VIVANT FALSE Brienne of Tarth
+VIVANT FALSE Davos Seaworth
+VIVANT FALSE Bronn
+VIVANT FALSE Podrick Payne
+MORT TRUE Beric Dondarrion
+VIVANT FALSE Tormund Giantsbane
+VIVANT FALSE Gendry
+MORT FALSE Robin Arryn
+MORT FALSE Edmure Tully
+VIVANT FALSE Jaqen H’ghar
