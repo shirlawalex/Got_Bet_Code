@@ -1,1 +1,6 @@
 jeudi 25 avril 2019, 18:49:45 (UTC+0200)
+[master 1cbcc01] calcul des scores
+ 3 files changed, 2 insertions(+)
+ create mode 100644 File/Historique.txt
+ create mode 100644 File/historique.txt
+jeudi 25 avril 2019, 18:51:15 (UTC+0200)

@@ -4,13 +4,13 @@ Question : NULL
 Question : NULL 
 Question : NULL 
 Question : NULL 
-Question : NULL 
 Reponse:OUI correction:OUI
 	points =0+1
-Reponse:NON correction:NON
-	points =1+1
 Reponse:OUI correction:OUI
+	points =1+1
+Reponse:NON correction:NON
 	points =2+1
+Reponse:OUI correction:NON
 ### Resultat Deathnote ###
 NULL
 NULL
