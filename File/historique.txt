@@ -1,2 +1,3 @@
 git add Score File
 git add Score File
+ add Score File >> File/historique.txt
