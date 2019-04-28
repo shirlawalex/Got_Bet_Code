@@ -75,4 +75,4 @@ Ajouter dans git rapidement le calcul des scores
 $git add Score Pax File && git commit -m "calcul des scores"
 
 Les deux en même temps
-$java Main : && java Score && echo ADD and COMMIT on git && date >> File/Historique.txt && git add Score File >> File/historique.txt && git commit -m "calcul des scores" >> File/Historique.txt
+$java Main : && java Score && echo ADD and COMMIT on git && date >> File/Historique.txt && git add Score File Pax >> File/historique.txt && git commit -m "calcul des scores" >> File/Historique.txt
