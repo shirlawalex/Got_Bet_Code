@@ -1,0 +1,47 @@
+N18-Thibault Juy
+###
+Daenerys Targaryen
+Bébé de Cersei
+Bran Stark
+OUI
+NON
+OUI
+OUI
+NON
+###
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+MORT TRUE Jon Snow
+MORT FALSE Arya Stark
+MORT TRUE Bran Stark
+VIVANT FALSE Sansa Stark
+VIVANT FALSE Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+VIVANT FALSE Jaime Lannister
+MORT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+VIVANT FALSE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+VIVANT FALSE Melisandre
+VIVANT FALSE Jorah Mormont
+MORT FALSE Varys
+VIVANT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
+VIVANT FALSE The Mountain
+MORT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+MORT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+MORT FALSE Brienne of Tarth
+MORT TRUE Davos Seaworth
+VIVANT FALSE Bronn
+MORT FALSE Podrick Payne
+VIVANT FALSE Beric Dondarrion
+MORT FALSE Tormund Giantsbane
+VIVANT FALSE Gendry
+MORT FALSE Robin Arryn
+VIVANT FALSE Edmure Tully
+VIVANT FALSE Jaqen H’ghar

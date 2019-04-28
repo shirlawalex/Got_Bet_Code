@@ -13,3 +13,6 @@ jeudi 25 avril 2019, 18:58:08 (UTC+0200)
  21 files changed, 78 insertions(+), 57 deletions(-)
  rewrite File/Score.txt (98%)
 vendredi 26 avril 2019, 21:05:57 (UTC+0200)
+[master ac72f6d] calcul des scores
+ 3 files changed, 60 insertions(+), 10 deletions(-)
+ create mode 100644 Score/scorePax18.txt
