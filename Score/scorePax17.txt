@@ -1,14 +1,14 @@
-N17-Alexis Verdeil, Total:4
+N17-Alexis Verdeil, Total:5
 ### Resultat Question ###
 Question : NULL 
 Reponse:Yara Greyjoy correction:Ghost
 Reponse:Jon Snow correction:Arya Stark
 Reponse:NON correction:NON
-	points =0+2
+	points =0+3
 Reponse:NON correction:NON
-	points =2+1
-Reponse:OUI correction:OUI
 	points =3+1
+Reponse:OUI correction:OUI
+	points =4+1
 Question : NULL 
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###

@@ -21,3 +21,8 @@ lundi 29 avril 2019, 04:31:52 (UTC+0200)
 [HEAD détachée 30f7e03] calcul des scores
  2 files changed, 9 insertions(+), 5 deletions(-)
 lundi 29 avril 2019, 04:58:53 (UTC+0200)
+[New 01dce16] calcul des scores
+ 23 files changed, 196 insertions(+), 140 deletions(-)
+ rewrite File/Score.txt (98%)
+ create mode 100644 Pax/pax18.txt
+lundi 29 avril 2019, 05:02:32 (UTC+0200)

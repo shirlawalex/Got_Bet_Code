@@ -1,13 +1,13 @@
-N6-Marina JUMEAU, Total:3
+N6-Marina JUMEAU, Total:4
 ### Resultat Question ###
 Question : NULL 
 Reponse:Melisandre correction:Ghost
 Reponse:Arya Stark correction:Arya Stark
-	points =0+2
+	points =0+3
 Reponse:OUI correction:NON
 Reponse:OUI correction:NON
 Reponse:OUI correction:OUI
-	points =2+1
+	points =3+1
 Question : NULL 
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
