@@ -1,12 +1,13 @@
-N2-Manon LECLERC, Total:1
+N2-Manon LECLERC, Total:-3
 ### Resultat Question ###
 Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Reponse:OUI correction:OUI
+Reponse:Euron Greyjoy correction:Ghost
+Reponse:Jon Snow correction:Arya Stark
+Reponse:OUI correction:NON
+Reponse:NON correction:NON
 	points =0+1
+Reponse:OUI correction:OUI
+	points =1+1
 Question : NULL 
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
@@ -17,6 +18,21 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:VIVANT correction:OUI
+	points =0-1
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =-1-1
+NULL
+NULL
+Reponse deathnote:VIVANT correction:OUI
+	points =-2-1
+Reponse deathnote:VIVANT correction:OUI
+	points =-3-1
 NULL
 NULL
 NULL
@@ -29,18 +45,8 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+Reponse deathnote:MORT correction:OUI
+	points =-4-1
 NULL
 NULL
 NULL

@@ -1,10 +1,10 @@
-N5-Paul BORNET, Total:1
+N5-Paul BORNET, Total:-4
 ### Resultat Question ###
 Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
+Reponse:Brienne of Tarth correction:Ghost
+Reponse:Sansa Stark correction:Arya Stark
+Reponse:OUI correction:NON
+Reponse:OUI correction:NON
 Reponse:OUI correction:OUI
 	points =0+1
 Question : NULL 
@@ -17,6 +17,21 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:OUI
+	points =0-1
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =-1-1
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =-2-1
+Reponse deathnote:VIVANT correction:OUI
+	points =-3-1
 NULL
 NULL
 NULL
@@ -29,18 +44,8 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+Reponse deathnote:MORT correction:OUI
+	points =-4-1
 NULL
 NULL
 NULL
