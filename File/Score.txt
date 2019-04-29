@@ -1,20 +1,20 @@
 Classement:
-pax n0, name:18-Thibault Juy, Total:1
-pax n1, name:0-SHIRLAW, Total:0
-pax n2, name:17-Alexis Verdeil, Total:-1
-pax n3, name:6-Marina JUMEAU, Total:-2
-pax n4, name:4-Manon Olivier, Total:-3
-pax n5, name:1-Emma Jouy, Total:-3
-pax n6, name:16-Sawssen Hadded, Total:-3
-pax n7, name:2-Manon LECLERC, Total:-3
-pax n8, name:8-Octave Caloni, Total:-3
-pax n9, name:10-Anne-Elisabeth, Total:-3
-pax n10, name:12-Jimmy Ho, Total:-3
-pax n11, name:10-Morgane Meiranesio, Total:-3
-pax n12, name:3-David RIBOH, Total:-3
-pax n13, name:7-ARTHUR CALONI, Total:-3
-pax n14, name:9-Margot Liegard, Total:-4
-pax n15, name:13-Marie-Amelie Gaston, Total:-4
-pax n16, name:5-Paul BORNET, Total:-4
-pax n17, name:15-Jules Rotivel, Total:-5
-pax n18, name:14-Julia Reyl, Total:-5
+pax n0, name:0-SHIRLAW, Total:5
+pax n1, name:17-Alexis Verdeil, Total:4
+pax n2, name:6-Marina JUMEAU, Total:3
+pax n3, name:4-Manon Olivier, Total:2
+pax n4, name:1-Emma Jouy, Total:2
+pax n5, name:16-Sawssen Hadded, Total:2
+pax n6, name:18-Thibault Juy, Total:2
+pax n7, name:2-Manon LECLERC, Total:2
+pax n8, name:8-Octave Caloni, Total:2
+pax n9, name:10-Anne-Elisabeth, Total:2
+pax n10, name:12-Jimmy Ho, Total:2
+pax n11, name:10-Morgane Meiranesio, Total:2
+pax n12, name:3-David RIBOH, Total:2
+pax n13, name:7-ARTHUR CALONI, Total:2
+pax n14, name:9-Margot Liegard, Total:1
+pax n15, name:13-Marie-Amelie Gaston, Total:1
+pax n16, name:5-Paul BORNET, Total:1
+pax n17, name:15-Jules Rotivel, Total:0
+pax n18, name:14-Julia Reyl, Total:0

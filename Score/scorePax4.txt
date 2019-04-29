@@ -1,4 +1,4 @@
-N4-Manon Olivier, Total:-3
+N4-Manon Olivier, Total:2
 ### Resultat Question ###
 Question : NULL 
 Reponse:Yara Greyjoy correction:Ghost
@@ -19,20 +19,20 @@ NULL
 NULL
 NULL
 Reponse deathnote:MORT correction:OUI
-	points =0-1
+	points =0 0
 NULL
 NULL
 NULL
 NULL
 NULL
 Reponse deathnote:MORT correction:OUI
-	points =-1-1
+	points =0 0
 NULL
 NULL
 Reponse deathnote:MORT correction:OUI
-	points =-2-1
+	points =0 0
 Reponse deathnote:MORT correction:OUI
-	points =-3-1
+	points =0 0
 NULL
 NULL
 NULL
@@ -46,7 +46,7 @@ NULL
 NULL
 NULL
 Reponse deathnote:MORT correction:OUI
-	points =-4-1
+	points =0 0
 NULL
 NULL
 NULL
