@@ -14,3 +14,7 @@ jeudi 25 avril 2019, 18:58:08 (UTC+0200)
  rewrite File/Score.txt (98%)
 vendredi 26 avril 2019, 21:05:57 (UTC+0200)
 lundi 29 avril 2019, 04:29:05 (UTC+0200)
+[HEAD détachée e2baf9e] calcul des scores
+ 21 files changed, 325 insertions(+), 221 deletions(-)
+ rewrite File/Score.txt (98%)
+lundi 29 avril 2019, 04:31:52 (UTC+0200)
