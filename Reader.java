@@ -55,6 +55,13 @@ class ReaderDeathnote{
 	public int nbQuestion = 8;
 	public int nbPers = 36;
 
+	public int bigIndex = 0;
+	public int bigPoint = 5;
+	public int mediumIndex = 3;
+	public int mediumPoint = 3;
+	public int smallIndex = nbQuestion;
+	public int smallPoint = 1;
+
     public String name;   
     public String [] question = new String[nbQuestion];
     public String [][] deathnote = new String[nbPers][2];

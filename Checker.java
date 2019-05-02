@@ -1,19 +1,28 @@
 public class Checker{
 
+	public int bigPoint;
+	public int bigIndex;
+	public int mediumPoint;
+	public int mediumIndex;
+	public int smallPoint;
+	public int smallIndex;
 
-	public static int bigPoint = 5;
-	public static int bigIndex = 0;
-	public static int mediumPoint = 3;
-	public static int mediumIndex = 3;
-	public static int smallPoint = 1;
-	//public static int smallIndex = nbQuestion;
-
+	public Checker(int bigIndex, int bigPoint, int mediumIndex, int mediumPoint,int smallIndex, int smallPoint){
+		this.bigIndex = bigIndex;
+		this.bigPoint = bigPoint ;
+		this.mediumPoint = mediumPoint;
+		this.mediumIndex = mediumIndex;
+		this.smallIndex = smallIndex;
+		this.smallPoint = smallPoint;
+	}
 
 	public static String checkAll(ReaderDeathnote pax, ReaderDeathnote result,Writer score){
 		Pax paxInfo = new Pax();
+		Checker parametreQuestion = new Checker(pax.bigIndex,pax.bigPoint,pax.mediumIndex,pax.mediumPoint,pax.smallIndex,pax.smallPoint);
+		
 		//calcule les points des questions
 		paxInfo.addContent("### Resultat Question ###\n");
-		Checker.checkQuestion(paxInfo,pax.question,result.question);
+		Checker.checkQuestion(paxInfo,pax.question,result.question,parametreQuestion);
 		//calcule les points du deathnote
 		paxInfo.addContent("### Resultat Deathnote ###\n");
 		Checker.checkDeathNote(paxInfo,pax.deathnote,result.deathnote);
@@ -29,7 +38,7 @@ public class Checker{
 		return ret;
 	} 
 
-	public static int checkQuestion(Pax pax,String[] reponse,String[] correction) {
+	public static int checkQuestion(Pax pax,String[] reponse,String[] correction,Checker parametre) {
 		String content = "";
 		int points = 0;
 		int taille = reponse.length; //nbQuestions
@@ -42,9 +51,9 @@ public class Checker{
 				//System.out.println("Reponse:"+reponse[i]+" correction:"+correction[i]);
 				content += "Reponse:"+reponse[i]+" correction:"+correction[i]+"\n";
 				if(reponse[i].equals(correction[i])){
-					int add = (i == bigIndex ? bigPoint : 
-								i <= mediumIndex ? mediumPoint :
-								smallPoint);
+					int add = (i == parametre.bigIndex ? parametre.bigPoint : 
+								i <= parametre.mediumIndex ? parametre.mediumPoint :
+								parametre.smallPoint);
 					//System.out.println("	points ="+points+"+"+add);
 					content +="	points ="+points+"+"+add+"\n";
 					points += add;
