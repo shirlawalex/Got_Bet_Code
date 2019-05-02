@@ -1,10 +1,10 @@
 RESULTAT
 ###
 NULL
-NULL
-NULL
-NULL
-NULL
+Ghost
+Arya Stark
+NON
+NON
 OUI
 NULL
 OUI
@@ -16,17 +16,17 @@ NULL NULL Jon Snow
 NULL NULL Arya Stark
 NULL NULL Bran Stark
 NULL NULL Sansa Stark
-NULL NULL Ghost
+OUI FALSE Ghost
 NULL NULL Nymeria
 NULL NULL Cersei Lannister
 NULL NULL Jaime Lannister
 NULL NULL Bébé de Cersei
 NULL NULL Tyrion Lannister
-NULL NULL Theon Greyjoy
+OUI FALSE Theon Greyjoy
 NULL NULL Yara Greyjoy
 NULL NULL Euron Greyjoy
-NULL NULL Melisandre
-NULL NULL Jorah Mormont
+OUI FALSE Melisandre
+OUI FALSE Jorah Mormont
 NULL NULL Varys
 NULL NULL Grey Worm
 NULL NULL Daario Naharis
@@ -39,7 +39,7 @@ NULL NULL Brienne of Tarth
 NULL NULL Davos Seaworth
 NULL NULL Bronn
 NULL NULL Podrick Payne
-NULL NULL Beric Dondarrion
+OUI FALSE Beric Dondarrion
 NULL NULL Tormund Giantsbane
 NULL NULL Gendry
 NULL NULL Robin Arryn

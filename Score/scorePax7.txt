@@ -1,12 +1,13 @@
-N7-ARTHUR CALONI, Total:1
+N7-ARTHUR CALONI, Total:2
 ### Resultat Question ###
 Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
-Reponse:OUI correction:OUI
+Reponse:Theon Greyjoy correction:Ghost
+Reponse:Jorah Mormont correction:Arya Stark
+Reponse:OUI correction:NON
+Reponse:NON correction:NON
 	points =0+1
+Reponse:OUI correction:OUI
+	points =1+1
 Question : NULL 
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
@@ -17,6 +18,21 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
+Reponse deathnote:VIVANT correction:OUI
+	points =0 0
 NULL
 NULL
 NULL
@@ -29,18 +45,8 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
 NULL
 NULL
 NULL

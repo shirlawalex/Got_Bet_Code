@@ -1,15 +1,17 @@
-N0-SHIRLAW, Total:2
+N0-SHIRLAW, Total:6
 ### Resultat Question ###
 Question : NULL 
-Question : NULL 
-Question : NULL 
-Question : NULL 
+Reponse:Brienne of Tarth correction:Ghost
+Reponse:Arya Stark correction:Arya Stark
+	points =0+3
+Reponse:OUI correction:NON
+Reponse:NON correction:NON
+	points =3+1
+Reponse:OUI correction:OUI
+	points =4+1
 Question : NULL 
 Reponse:OUI correction:OUI
-	points =0+1
-Question : NULL 
-Reponse:OUI correction:OUI
-	points =1+1
+	points =5+1
 ### Resultat Deathnote ###
 NULL
 NULL
@@ -18,6 +20,21 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:OUI
+	points =0 0
+NULL
+NULL
+Reponse deathnote:VIVANT correction:OUI
+	points =0 0
+Reponse deathnote:MORT correction:OUI
+	points =0 0
 NULL
 NULL
 NULL
@@ -30,18 +47,8 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+Reponse deathnote:NULL correction:OUI
+	points =0 0
 NULL
 NULL
 NULL
