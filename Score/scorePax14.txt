@@ -1,7 +1,7 @@
-N14-Julia Reyl, Total:0
+N14-Julia Reyl, Total:2
 ### Resultat Question ###
 Question : NULL 
-Reponse:Jon Snow correction:Ghost
+Reponse:Jon Snow correction:Beric Dondarrion
 Reponse:NULL correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:OUI correction:NON
@@ -12,25 +12,9 @@ Reponse:NON correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
 NULL
 NULL
 NULL
@@ -40,11 +24,29 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 1+1
+Reponse deathnote:VIVANT correction:MORT
+	points =2 0
 NULL
 NULL
 NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+	points =2 0
 NULL
 NULL
 NULL

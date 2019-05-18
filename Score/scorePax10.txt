@@ -1,7 +1,7 @@
-N10-Morgane Meiranesio, Total:2
+N10-Morgane Meiranesio, Total:5
 ### Resultat Question ###
 Question : NULL 
-Reponse:Brienne of Tarth correction:Ghost
+Reponse:Brienne of Tarth correction:Beric Dondarrion
 Reponse:Jon Snow correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:OUI correction:NON
@@ -14,24 +14,7 @@ Reponse:OUI correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:NULL correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-Reponse deathnote:MORT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
 NULL
 NULL
@@ -42,11 +25,31 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 1+1
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 2+1
 NULL
 NULL
 NULL

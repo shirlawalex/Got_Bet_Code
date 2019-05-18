@@ -1,7 +1,7 @@
-N3-David RIBOH, Total:2
+N3-David RIBOH, Total:3
 ### Resultat Question ###
 Question : NULL 
-Reponse:Jaime Lannister correction:Ghost
+Reponse:Jaime Lannister correction:Beric Dondarrion
 Reponse:Bran Stark correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:NON correction:NON
@@ -14,24 +14,7 @@ Reponse:NON correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
-Reponse deathnote:MORT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
 NULL
 NULL
@@ -42,11 +25,29 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
+NULL
+NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
+Reponse deathnote:MORT correction:MORT
+	points =1 0
 NULL
 NULL
 NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
 NULL
 NULL
 NULL

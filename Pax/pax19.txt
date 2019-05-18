@@ -1,0 +1,47 @@
+N19-Marion Spadaccini
+###
+Jon Snow
+Bébé de Cersei
+Jon Snow
+OUI
+NON
+OUI
+OUI
+NON
+###
+VIVANT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
+MORT FALSE Rhaegal
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+MORT FALSE Sansa Stark
+MORT FALSE Ghost
+VIVANT FALSE Nymeria
+MORT FALSE Cersei Lannister
+VIVANT FALSE Jaime Lannister
+MORT FALSE Bébé de Cersei
+VIVANT FALSE Tyrion Lannister
+MORT FALSE Theon Greyjoy
+MORT FALSE Yara Greyjoy
+MORT FALSE Euron Greyjoy
+VIVANT FALSE Melisandre
+MORT FALSE Jorah Mormont
+VIVANT FALSE Varys
+VIVANT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
+MORT FALSE The Mountain
+VIVANT FALSE The Hound
+VIVANT FALSE Samwell Tarley
+VIVANT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+MORT FALSE Brienne of Tarth
+MORT FALSE Davos Seaworth
+MORT FALSE Bronn
+MORT FALSE Podrick Payne
+MORT TRUE Beric Dondarrion
+VIVANT FALSE Tormund Giantsbane
+VIVANT FALSE Gendry
+MORT FALSE Robin Arryn
+VIVANT FALSE Edmure Tully
+VIVANT FALSE Jaqen H’ghar

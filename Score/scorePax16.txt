@@ -1,7 +1,7 @@
-N16-Sawssen Hadded, Total:2
+N16-Sawssen Hadded, Total:3
 ### Resultat Question ###
 Question : NULL 
-Reponse:Sansa Stark correction:Ghost
+Reponse:Sansa Stark correction:Beric Dondarrion
 Reponse:Beric Dondarrion correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:OUI correction:NON
@@ -14,24 +14,7 @@ Reponse:OUI correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:NULL correction:OUI
-	points =0 0
-Reponse deathnote:VIVANT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
 NULL
 NULL
@@ -42,11 +25,29 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
+NULL
+NULL
+Reponse deathnote:NULL correction:MORT
+	points =1 0
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
 NULL
 NULL
 NULL
-Reponse deathnote:NULL correction:OUI
-	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:NULL correction:MORT
+	points =1 0
 NULL
 NULL
 NULL

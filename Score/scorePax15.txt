@@ -1,7 +1,7 @@
-N15-Jules Rotivel, Total:0
+N15-Jules Rotivel, Total:2
 ### Resultat Question ###
 Question : NULL 
-Reponse:Euron Greyjoy correction:Ghost
+Reponse:Euron Greyjoy correction:Beric Dondarrion
 Reponse:Drogon correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:OUI correction:NON
@@ -12,24 +12,7 @@ Reponse:NON correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-Reponse deathnote:VIVANT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
 NULL
 NULL
@@ -40,11 +23,30 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
+Reponse deathnote:VIVANT correction:MORT
 	points =0 0
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 1+1
 NULL
 NULL
 NULL

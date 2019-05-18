@@ -1,7 +1,7 @@
-N4-Manon Olivier, Total:2
+N4-Manon Olivier, Total:7
 ### Resultat Question ###
 Question : NULL 
-Reponse:Yara Greyjoy correction:Ghost
+Reponse:Yara Greyjoy correction:Beric Dondarrion
 Reponse:Jon Snow correction:Arya Stark
 Reponse:OUI correction:NON
 Reponse:NON correction:NON
@@ -14,25 +14,9 @@ Reponse:NON correction:OUI
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-NULL
-NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
-Reponse deathnote:MORT correction:OUI
-	points =0 0
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 0+1
 NULL
 NULL
 NULL
@@ -42,11 +26,32 @@ NULL
 NULL
 NULL
 NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 1+1
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 2+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 3+1
 NULL
 NULL
 NULL
-Reponse deathnote:MORT correction:OUI
-	points =0 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 4+1
 NULL
 NULL
 NULL
