@@ -1,4 +1,4 @@
-N8-Octave Caloni, Total:4
+N8-Octave Caloni, Total:5
 ### Resultat Question ###
 Question : NULL 
 Reponse:Yara Greyjoy correction:Beric Dondarrion
@@ -11,22 +11,6 @@ Reponse:OUI correction:OUI
 Question : NULL 
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:MORT
-	points =0 0
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:MORT
-	points =0 0
 NULL
 NULL
 Reponse deathnote:MORT correction:MORT
@@ -43,12 +27,30 @@ NULL
 NULL
 NULL
 NULL
-NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
 NULL
 NULL
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 1+1
+Reponse deathnote:VIVANT correction:MORT
+	points =2 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 2+1
 NULL
 NULL
 NULL

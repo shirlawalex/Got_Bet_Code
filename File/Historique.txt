@@ -28,3 +28,10 @@ lundi 29 avril 2019, 04:58:53 (UTC+0200)
 lundi 29 avril 2019, 05:02:32 (UTC+0200)
 [New 1e78f86] calcul des scores
  5 files changed, 20 insertions(+), 15 deletions(-)samedi 18 mai 2019, 23:48:48 (UTC+0200)
+[master 5ef275d] calcul des scores
+ 25 files changed, 434 insertions(+), 246 deletions(-)
+ rewrite File/Score.txt (98%)
+ create mode 100644 File/ep4.txt
+ create mode 100644 Pax/pax19.txt
+ create mode 100644 Score/scorePax19.txt
+samedi 18 mai 2019, 23:58:10 (UTC+0200)

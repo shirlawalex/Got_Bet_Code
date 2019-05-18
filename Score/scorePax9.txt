@@ -12,7 +12,8 @@ Reponse:NON correction:OUI
 ### Resultat Deathnote ###
 NULL
 NULL
-NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =0 0
 Reponse deathnote:VIVANT correction:MORT
 	points =0 0
 NULL
