@@ -1,4 +1,4 @@
-N6-Marina JUMEAU, Total:7
+N6-Marina JUMEAU, Total:11
 ### Resultat Question ###
 Question : NULL 
 Reponse:Melisandre correction:Beric Dondarrion
@@ -23,25 +23,36 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
-Reponse deathnote:VIVANT correction:MORT
-	points =1 0
-NULL
-NULL
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 1+1
 Reponse deathnote:MORT correction:MORT
+	points =2 0
+Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 2+1
 NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =3 0
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 3+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 4+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 5+1
+Reponse deathnote:VIVANT correction:MORT
+	points =6 0
 NULL
 NULL
-NULL
-NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 6+1
+Reponse deathnote:VIVANT correction:MORT
+	points =7 0
 NULL
 NULL
 NULL
@@ -50,7 +61,7 @@ NULL
 NULL
 NULL
 Reponse deathnote:MORT correction:MORT
-	points =3 0
+	points =7 0
 NULL
 NULL
 NULL

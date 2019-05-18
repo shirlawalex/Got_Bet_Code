@@ -1,4 +1,4 @@
-N1-Emma Jouy, Total:5
+N1-Emma Jouy, Total:9
 ### Resultat Question ###
 Question : NULL 
 Reponse:Yara Greyjoy correction:Beric Dondarrion
@@ -22,35 +22,46 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
-NULL
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 0+1
-NULL
-NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 1+1
-Reponse deathnote:VIVANT correction:MORT
-	points =2 0
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
 NULL
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 2+1
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 3+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 4+1
+Reponse deathnote:VIVANT correction:MORT
+	points =5 0
+Reponse deathnote:VIVANT correction:MORT
+	points =5 0
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 5+1
+Reponse deathnote:VIVANT correction:MORT
+	points =6 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 6+1
 NULL
 NULL
 NULL

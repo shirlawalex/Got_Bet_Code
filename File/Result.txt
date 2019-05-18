@@ -18,20 +18,20 @@ NULL NULL Bran Stark
 NULL NULL Sansa Stark
 NULL NULL Ghost
 NULL NULL Nymeria
-NULL NULL Cersei Lannister
-NULL NULL Jaime Lannister
-NULL NULL Bébé de Cersei
+MORT FALSE Cersei Lannister
+MORT FALSE Jaime Lannister
+MORT FALSE Bébé de Cersei
 NULL NULL Tyrion Lannister
 MORT FALSE Theon Greyjoy
 NULL NULL Yara Greyjoy
-NULL NULL Euron Greyjoy
+MORT FALSE Euron Greyjoy
 MORT FALSE Melisandre
 MORT FALSE Jorah Mormont
-NULL NULL Varys
+MORT FALSE Varys
 NULL NULL Grey Worm
 NULL NULL Daario Naharis
-NULL NULL The Mountain
-NULL NULL The Hound
+MORT FALSE The Mountain
+MORT FALSE The Hound
 NULL NULL Samwell Tarley
 NULL NULL Gilly
 NULL NULL Sam (Enfant)

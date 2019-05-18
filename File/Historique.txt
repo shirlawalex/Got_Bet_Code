@@ -35,3 +35,7 @@ lundi 29 avril 2019, 05:02:32 (UTC+0200)
  create mode 100644 Pax/pax19.txt
  create mode 100644 Score/scorePax19.txt
 samedi 18 mai 2019, 23:58:10 (UTC+0200)
+[master 2eb4b77] calcul des scores
+ 23 files changed, 139 insertions(+), 102 deletions(-)
+ rewrite File/Score.txt (83%)
+dimanche 19 mai 2019, 00:07:11 (UTC+0200)

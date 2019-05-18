@@ -1,4 +1,4 @@
-N10-Anne-Elisabeth, Total:6
+N10-Anne-Elisabeth, Total:10
 ### Resultat Question ###
 Question : NULL 
 Reponse:Beric Dondarrion correction:Beric Dondarrion
@@ -24,32 +24,43 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 1+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 2+1
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 3+1
 NULL
 Reponse deathnote:MORT correction:MORT
-	points =1 0
+	points =4 0
 NULL
-NULL
+Reponse deathnote:MORT correction:MORT
+	points =4 0
 Reponse deathnote:VIVANT correction:MORT
-	points =1 0
+	points =4 0
 Reponse deathnote:MORT correction:MORT
-	points =1 0
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+	points =4 0
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 4+1
 NULL
 NULL
 Reponse deathnote:MORT correction:MORT
-	points =1 0
+	points =5 0
+Reponse deathnote:VIVANT correction:MORT
+	points =5 0
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Reponse deathnote:MORT correction:MORT
+	points =5 0
 NULL
 NULL
 NULL

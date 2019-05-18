@@ -1,4 +1,4 @@
-N14-Julia Reyl, Total:2
+N14-Julia Reyl, Total:3
 ### Resultat Question ###
 Question : NULL 
 Reponse:Jon Snow correction:Beric Dondarrion
@@ -21,24 +21,32 @@ NULL
 NULL
 NULL
 NULL
-NULL
-NULL
-NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =1 0
+Reponse deathnote:MORT correction:MORT
+	points =1 0
+Reponse deathnote:MORT correction:MORT
+	points =1 0
 NULL
 Reponse deathnote:VIVANT correction:MORT
 	points =1 0
 NULL
-NULL
+Reponse deathnote:MORT correction:MORT
+	points =1 0
 Reponse deathnote:MORT correction:MORT
 FALSE
 	points = 1+1
 Reponse deathnote:VIVANT correction:MORT
 	points =2 0
+Reponse deathnote:VIVANT correction:MORT
+	points =2 0
 NULL
 NULL
-NULL
-NULL
-NULL
+Reponse deathnote:VIVANT correction:MORT
+	points =2 0
+Reponse deathnote:MORT correction:MORT
+FALSE
+	points = 2+1
 NULL
 NULL
 NULL
@@ -47,7 +55,7 @@ NULL
 NULL
 NULL
 Reponse deathnote:MORT correction:MORT
-	points =2 0
+	points =3 0
 NULL
 NULL
 NULL
