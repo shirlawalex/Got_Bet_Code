@@ -15,42 +15,42 @@ Reponse:OUI correction:OUI
 ### Resultat Deathnote ###
 NULL
 NULL
-NUM2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =0+0
-NUM3 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =0+0
-NULL
-NULL
-NULL
-NULL
-NULL
-NUM9 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =0+0
-NUM10 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =0+0
-NUM11 Reponse deathnote:NULL NULL correction:MORT FALSE
+num:3 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =0+0
 NULL
-NUM13 Reponse deathnote:MORT FALSE correction:MORT FALSE
+NULL
+NULL
+NULL
+NULL
+num:9 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =0+0
+num:10 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =0+0
+num:11 Reponse deathnote:NULL NULL correction:MORT FALSE
+	points =0+0
+NULL
+num:13 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 0+1
 NULL
-NUM15 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:15 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 1+1
-NUM16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+num:16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =2+0
-NUM17 Reponse deathnote:MORT TRUE correction:MORT FALSE
+num:17 Reponse deathnote:MORT TRUE correction:MORT FALSE
 	points =2+0
-NUM18 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:18 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 2+1
 NULL
 NULL
-NUM21 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 3+1
-NUM22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+num:22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =4+0
 NULL
 NULL
@@ -59,7 +59,7 @@ NULL
 NULL
 NULL
 NULL
-NUM30 Reponse deathnote:NULL NULL correction:MORT FALSE
+num:30 Reponse deathnote:NULL NULL correction:MORT FALSE
 	points =4+0
 NULL
 NULL
