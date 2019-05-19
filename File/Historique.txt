@@ -39,3 +39,7 @@ samedi 18 mai 2019, 23:58:10 (UTC+0200)
  23 files changed, 139 insertions(+), 102 deletions(-)
  rewrite File/Score.txt (83%)
 dimanche 19 mai 2019, 00:07:11 (UTC+0200)
+[master c848e6a] calcul des scores
+ 23 files changed, 464 insertions(+), 243 deletions(-)
+ rewrite File/Score.txt (98%)
+lundi 20 mai 2019, 00:15:05 (UTC+0200)
