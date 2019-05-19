@@ -13,44 +13,44 @@ Reponse:OUI correction:OUI
 ### Resultat Deathnote ###
 NULL
 NULL
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM2 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 0+1
-Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+NUM3 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =1+0
 NULL
 NULL
 NULL
 NULL
 NULL
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 1+1
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM10 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 2+1
-Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+NUM11 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =3+0
 NULL
-Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+NUM13 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =3+0
 NULL
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM15 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 3+1
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM16 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 4+1
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM17 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 5+1
-Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+NUM18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =6+0
 NULL
 NULL
-Reponse deathnote:MORT TRUE correction:MORT FALSE
+NUM21 Reponse deathnote:MORT TRUE correction:MORT FALSE
 	points =6+0
-Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+NUM22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =6+0
 NULL
 NULL
@@ -59,7 +59,7 @@ NULL
 NULL
 NULL
 NULL
-Reponse deathnote:MORT FALSE correction:MORT FALSE
+NUM30 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 6+1
 NULL

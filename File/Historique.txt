@@ -43,3 +43,6 @@ dimanche 19 mai 2019, 00:07:11 (UTC+0200)
  23 files changed, 464 insertions(+), 243 deletions(-)
  rewrite File/Score.txt (98%)
 lundi 20 mai 2019, 00:15:05 (UTC+0200)
+[master c33fcb8] calcul des scores
+ 21 files changed, 525 insertions(+), 521 deletions(-)
+lundi 20 mai 2019, 00:16:21 (UTC+0200)
