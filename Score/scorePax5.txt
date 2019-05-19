@@ -15,8 +15,7 @@ NULL
 num:2 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 0+1
-num:3 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =1+0
+NULL
 NULL
 NULL
 NULL

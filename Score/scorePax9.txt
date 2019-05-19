@@ -14,8 +14,7 @@ NULL
 NULL
 num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =0+0
-num:3 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =0+0
+NULL
 NULL
 NULL
 NULL

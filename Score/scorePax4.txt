@@ -1,4 +1,4 @@
-N4-Manon Olivier, Total:11
+N4-Manon Olivier, Total:10
 ### Resultat Question ###
 Question : NULL 
 Reponse:Yara Greyjoy correction:Beric Dondarrion
@@ -15,9 +15,7 @@ NULL
 NULL
 num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =0+0
-num:3 Reponse deathnote:MORT FALSE correction:MORT FALSE
-Transformation : FALSE
-	points = 0+1
+NULL
 NULL
 NULL
 NULL
@@ -25,35 +23,35 @@ NULL
 NULL
 num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 1+1
+	points = 0+1
 num:10 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =2+0
+	points =1+0
 num:11 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 2+1
+	points = 1+1
 NULL
 num:13 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 3+1
+	points = 2+1
 NULL
 num:15 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 4+1
+	points = 3+1
 num:16 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 5+1
+	points = 4+1
 num:17 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 6+1
+	points = 5+1
 num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =7+0
+	points =6+0
 NULL
 NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 7+1
+	points = 6+1
 num:22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =8+0
+	points =7+0
 NULL
 NULL
 NULL
@@ -63,7 +61,7 @@ NULL
 NULL
 num:30 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 8+1
+	points = 7+1
 NULL
 NULL
 NULL

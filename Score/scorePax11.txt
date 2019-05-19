@@ -1,4 +1,4 @@
-N10-Anne-Elisabeth, Total:10
+N10-Anne-Elisabeth, Total:9
 ### Resultat Question ###
 Question : NULL 
 Reponse:Beric Dondarrion correction:Beric Dondarrion
@@ -16,9 +16,7 @@ NULL
 NULL
 num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =0+0
-num:3 Reponse deathnote:MORT FALSE correction:MORT FALSE
-Transformation : FALSE
-	points = 0+1
+NULL
 NULL
 NULL
 NULL
@@ -26,32 +24,32 @@ NULL
 NULL
 num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 1+1
+	points = 0+1
 num:10 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 2+1
+	points = 1+1
 num:11 Reponse deathnote:MORT FALSE correction:MORT FALSE
+Transformation : FALSE
+	points = 2+1
+NULL
+num:13 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =3+0
+NULL
+num:15 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =3+0
+num:16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+	points =3+0
+num:17 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =3+0
+num:18 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 3+1
 NULL
-num:13 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =4+0
-NULL
-num:15 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =4+0
-num:16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =4+0
-num:17 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =4+0
-num:18 Reponse deathnote:MORT FALSE correction:MORT FALSE
-Transformation : FALSE
-	points = 4+1
-NULL
 NULL
 num:21 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =5+0
+	points =4+0
 num:22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =5+0
+	points =4+0
 NULL
 NULL
 NULL
@@ -60,7 +58,7 @@ NULL
 NULL
 NULL
 num:30 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =5+0
+	points =4+0
 NULL
 NULL
 NULL

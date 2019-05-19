@@ -1,4 +1,4 @@
-N14-Julia Reyl, Total:3
+N14-Julia Reyl, Total:2
 ### Resultat Question ###
 Question : NULL 
 Reponse:Jon Snow correction:Beric Dondarrion
@@ -13,40 +13,38 @@ NULL
 NULL
 num:2 Reponse deathnote:MORT TRUE correction:MORT FALSE
 	points =0+0
-num:3 Reponse deathnote:MORT FALSE correction:MORT FALSE
-Transformation : FALSE
-	points = 0+1
+NULL
 NULL
 NULL
 NULL
 NULL
 NULL
 num:9 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =1+0
+	points =0+0
 num:10 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =1+0
+	points =0+0
 num:11 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =1+0
+	points =0+0
 NULL
 num:13 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =1+0
+	points =0+0
 NULL
 num:15 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =1+0
+	points =0+0
 num:16 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 1+1
+	points = 0+1
 num:17 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =2+0
+	points =1+0
 num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =2+0
+	points =1+0
 NULL
 NULL
 num:21 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =2+0
+	points =1+0
 num:22 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 2+1
+	points = 1+1
 NULL
 NULL
 NULL
@@ -55,7 +53,7 @@ NULL
 NULL
 NULL
 num:30 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =3+0
+	points =2+0
 NULL
 NULL
 NULL

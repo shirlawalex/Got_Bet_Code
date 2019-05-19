@@ -12,7 +12,7 @@ OUI
 NULL NULL Daenerys Targaryen
 NULL NULL Drogon
 MORT FALSE Rhaegal
-MORT FALSE Jon Snow
+NULL NULL Jon Snow
 NULL NULL Arya Stark
 NULL NULL Bran Stark
 NULL NULL Sansa Stark
