@@ -1,6 +1,6 @@
-N10-Anne-Elisabeth, Total:9
+N10-Anne-Elisabeth, Total:27
 ### Resultat Question ###
-Question : NULL 
+Reponse:Sansa Stark correction:Bran Stark
 Reponse:Beric Dondarrion correction:Beric Dondarrion
 	points =0+3
 Reponse:Drogon correction:Arya Stark
@@ -9,58 +9,100 @@ Reponse:NON correction:NON
 	points =3+1
 Reponse:OUI correction:OUI
 	points =4+1
-Question : NULL 
+Reponse:NON correction:NON
+	points =5+1
 Reponse:NON correction:OUI
 ### Resultat Deathnote ###
-NULL
-NULL
-num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =0+0
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:0 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 0+1
-num:10 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:1 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 1+1
-num:11 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:2 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+	points =2+0
+num:3 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
+	points =2+0
+num:4 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 2+1
-NULL
-num:13 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =3+0
-NULL
-num:15 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =3+0
-num:16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =3+0
-num:17 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =3+0
-num:18 Reponse deathnote:MORT FALSE correction:MORT FALSE
+num:5 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 3+1
-NULL
-NULL
+num:6 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 4+1
+num:7 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
+	points =5+0
+num:8 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 5+1
+num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
+Transformation : FALSE
+	points = 6+1
+num:10 Reponse deathnote:MORT FALSE correction:MORT FALSE
+Transformation : FALSE
+	points = 7+1
+num:11 Reponse deathnote:MORT FALSE correction:MORT FALSE
+Transformation : FALSE
+	points = 8+1
+num:12 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 9+1
+num:13 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =10+0
+num:14 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
+	points =10+0
+num:15 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =10+0
+num:16 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
+	points =10+0
+num:17 Reponse deathnote:MORT TRUE correction:MORT FALSE
+	points =10+0
+num:18 Reponse deathnote:MORT FALSE correction:MORT FALSE
+Transformation : FALSE
+	points = 10+1
+num:19 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
+	points =11+0
+num:20 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
+	points =11+0
 num:21 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =4+0
+	points =11+0
 num:22 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =4+0
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
-NULL
+	points =11+0
+num:23 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 11+1
+num:24 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 12+1
+num:25 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 13+1
+num:26 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 14+1
+num:27 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 15+1
+num:28 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 16+1
+num:29 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 17+1
 num:30 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =4+0
-NULL
-NULL
-NULL
-NULL
-NULL
+	points =18+0
+num:31 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 18+1
+num:32 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 19+1
+num:33 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
+	points =20+0
+num:34 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
+	points =20+0
+num:35 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
+Transformation : FALSE
+	points = 20+1

@@ -1,47 +1,47 @@
 RESULTAT
 ###
-NULL
+Bran Stark
 Beric Dondarrion
 Arya Stark
 NON
 NON
 OUI
-NULL
+NON
 OUI
 ###
-NULL NULL Daenerys Targaryen
-NULL NULL Drogon
+MORT FALSE Daenerys Targaryen
+VIVANT FALSE Drogon
 MORT FALSE Rhaegal
-NULL NULL Jon Snow
-NULL NULL Arya Stark
-NULL NULL Bran Stark
-NULL NULL Sansa Stark
-NULL NULL Ghost
-NULL NULL Nymeria
+VIVANT FALSE Jon Snow
+VIVANT FALSE Arya Stark
+VIVANT FALSE Bran Stark
+VIVANT FALSE Sansa Stark
+VIVANT FALSE Ghost
+VIVANT FALSE Nymeria
 MORT FALSE Cersei Lannister
 MORT FALSE Jaime Lannister
 MORT FALSE Bébé de Cersei
-NULL NULL Tyrion Lannister
+VIVANT FALSE Tyrion Lannister
 MORT FALSE Theon Greyjoy
-NULL NULL Yara Greyjoy
+VIVANT FALSE Yara Greyjoy
 MORT FALSE Euron Greyjoy
 MORT FALSE Melisandre
 MORT FALSE Jorah Mormont
 MORT FALSE Varys
-NULL NULL Grey Worm
-NULL NULL Daario Naharis
+VIVANT FALSE Grey Worm
+VIVANT FALSE Daario Naharis
 MORT FALSE The Mountain
 MORT FALSE The Hound
-NULL NULL Samwell Tarley
-NULL NULL Gilly
-NULL NULL Sam (Enfant)
-NULL NULL Brienne of Tarth
-NULL NULL Davos Seaworth
-NULL NULL Bronn
-NULL NULL Podrick Payne
+VIVANT FALSE Samwell Tarley
+VIVANT FALSE Gilly
+VIVANT FALSE Sam (Enfant)
+VIVANT FALSE Brienne of Tarth
+VIVANT FALSE Davos Seaworth
+VIVANT FALSE Bronn
+VIVANT FALSE Podrick Payne
 MORT FALSE Beric Dondarrion
-NULL NULL Tormund Giantsbane
-NULL NULL Gendry
-NULL NULL Robin Arryn
-NULL NULL Edmure Tully
-NULL NULL Jaqen H’ghar
+VIVANT FALSE Tormund Giantsbane
+VIVANT FALSE Gendry
+VIVANT FALSE Robin Arryn
+VIVANT FALSE Edmure Tully
+VIVANT FALSE Jaqen H’ghar
