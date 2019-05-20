@@ -1,0 +1,21 @@
+Classement:
+pax n0, name:2-Manon LECLERC, Total:29
+pax n1, name:17-Alexis Verdeil, Total:28
+pax n2, name:10-Anne-Elisabeth, Total:27
+pax n3, name:3-David RIBOH, Total:25
+pax n4, name:4-Manon Olivier, Total:24
+pax n5, name:15-Jules Rotivel, Total:24
+pax n6, name:1-Emma Jouy, Total:24
+pax n7, name:19-Marion Spadaccini, Total:24
+pax n8, name:18-Thibault Juy, Total:23
+pax n9, name:8-Octave Caloni, Total:23
+pax n10, name:12-Jimmy Ho, Total:22
+pax n11, name:6-Marina JUMEAU, Total:21
+pax n12, name:10-Morgane Meiranesio, Total:20
+pax n13, name:7-ARTHUR CALONI, Total:19
+pax n14, name:13-Marie-Amelie Gaston, Total:18
+pax n15, name:0-SHIRLAW, Total:18
+pax n16, name:9-Margot Liegard, Total:16
+pax n17, name:5-Paul BORNET, Total:16
+pax n18, name:16-Sawssen Hadded, Total:15
+pax n19, name:14-Julia Reyl, Total:12

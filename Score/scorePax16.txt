@@ -1,4 +1,4 @@
-N16-Sawssen Hadded, Total:15
+N16-Sawssen Hadded, Total:14
 ### Resultat Question ###
 Reponse:Daenerys Targaryen correction:Bran Stark
 Reponse:Sansa Stark correction:Beric Dondarrion
@@ -32,8 +32,7 @@ num:6 Reponse deathnote:NULL NULL correction:VIVANT FALSE
 	points =4+0
 num:7 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
 	points =4+0
-num:8 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =4+0
+NULL
 num:9 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =4+0
 num:10 Reponse deathnote:MORT TRUE correction:MORT FALSE
@@ -59,40 +58,37 @@ num:18 Reponse deathnote:NULL NULL correction:MORT FALSE
 num:19 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 6+1
-num:20 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 7+1
+NULL
 num:21 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =8+0
+	points =7+0
 num:22 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 8+1
+	points = 7+1
 num:23 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 9+1
+	points = 8+1
 num:24 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:25 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 10+1
+	points = 9+1
 num:26 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 11+1
+	points = 10+1
 num:27 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:28 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:29 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:30 Reponse deathnote:NULL NULL correction:MORT FALSE
-	points =12+0
+	points =11+0
 num:31 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:32 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:33 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
-	points =12+0
+	points =11+0
 num:34 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =12+0
-num:35 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =12+0
+	points =11+0
+NULL

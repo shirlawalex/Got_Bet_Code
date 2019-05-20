@@ -1,4 +1,4 @@
-N14-Julia Reyl, Total:12
+N14-Julia Reyl, Total:11
 ### Resultat Question ###
 Reponse:Arya Stark correction:Bran Stark
 Reponse:Jon Snow correction:Beric Dondarrion
@@ -29,8 +29,7 @@ num:6 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
 	points =3+0
 num:7 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =3+0
-num:8 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =3+0
+NULL
 num:9 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =3+0
 num:10 Reponse deathnote:MORT TRUE correction:MORT FALSE
@@ -55,41 +54,38 @@ num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =5+0
 num:19 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
 	points =5+0
-num:20 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 5+1
+NULL
 num:21 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
-	points =6+0
+	points =5+0
 num:22 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 6+1
+	points = 5+1
 num:23 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
-	points =7+0
+	points =6+0
 num:24 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =7+0
+	points =6+0
 num:25 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 7+1
+	points = 6+1
 num:26 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 8+1
+	points = 7+1
 num:27 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 9+1
+	points = 8+1
 num:28 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:29 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:30 Reponse deathnote:MORT TRUE correction:MORT FALSE
-	points =10+0
+	points =9+0
 num:31 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:32 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:33 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =10+0
+	points =9+0
 num:34 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 10+1
-num:35 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =11+0
+	points = 9+1
+NULL

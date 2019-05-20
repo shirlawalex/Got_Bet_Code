@@ -1,4 +1,4 @@
-N17-Alexis Verdeil, Total:28
+N17-Alexis Verdeil, Total:27
 ### Resultat Question ###
 Reponse:Daenerys Targaryen correction:Bran Stark
 Reponse:Yara Greyjoy correction:Beric Dondarrion
@@ -34,8 +34,7 @@ Transformation : FALSE
 	points = 5+1
 num:7 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
 	points =6+0
-num:8 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
-	points =6+0
+NULL
 num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 6+1
@@ -63,8 +62,7 @@ num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =11+0
 num:19 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =11+0
-num:20 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =11+0
+NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 11+1
@@ -104,6 +102,4 @@ Transformation : FALSE
 num:34 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 21+1
-num:35 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 22+1
+NULL

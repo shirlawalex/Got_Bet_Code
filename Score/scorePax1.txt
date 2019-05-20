@@ -1,4 +1,4 @@
-N1-Emma Jouy, Total:24
+N1-Emma Jouy, Total:23
 ### Resultat Question ###
 Reponse:Sansa Stark correction:Bran Stark
 Reponse:Yara Greyjoy correction:Beric Dondarrion
@@ -32,8 +32,7 @@ Transformation : FALSE
 	points = 4+1
 num:7 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =5+0
-num:8 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =5+0
+NULL
 num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 5+1
@@ -63,8 +62,7 @@ num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 num:19 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 11+1
-num:20 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =12+0
+NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 12+1
@@ -102,6 +100,4 @@ Transformation : FALSE
 	points = 20+1
 num:34 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =21+0
-num:35 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 21+1
+NULL

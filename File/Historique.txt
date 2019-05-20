@@ -55,3 +55,8 @@ lundi 20 mai 2019, 00:21:33 (UTC+0200)
 [master 9b8350e] calcul des scores
  23 files changed, 71 insertions(+), 91 deletions(-)
 lundi 20 mai 2019, 15:22:12 (UTC+0200)
+[master d751413] calcul des scores
+ 23 files changed, 1591 insertions(+), 847 deletions(-)
+ rewrite File/Result.txt (60%)
+ rewrite File/Score.txt (98%)
+lundi 20 mai 2019, 16:58:28 (UTC+0200)

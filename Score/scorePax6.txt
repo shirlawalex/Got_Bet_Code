@@ -32,8 +32,7 @@ Transformation : FALSE
 num:7 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 4+1
-num:8 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =5+0
+NULL
 num:9 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 5+1
@@ -62,8 +61,7 @@ num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =11+0
 num:19 Reponse deathnote:MORT TRUE correction:VIVANT FALSE
 	points =11+0
-num:20 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =11+0
+NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 11+1
@@ -98,5 +96,4 @@ Transformation : FALSE
 num:34 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 16+1
-num:35 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =17+0
+NULL

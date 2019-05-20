@@ -17,7 +17,7 @@ VIVANT FALSE Arya Stark
 VIVANT FALSE Bran Stark
 VIVANT FALSE Sansa Stark
 VIVANT FALSE Ghost
-VIVANT FALSE Nymeria
+NULL NULL Nymeria
 MORT FALSE Cersei Lannister
 MORT FALSE Jaime Lannister
 MORT FALSE Bébé de Cersei
@@ -29,7 +29,7 @@ MORT FALSE Melisandre
 MORT FALSE Jorah Mormont
 MORT FALSE Varys
 VIVANT FALSE Grey Worm
-VIVANT FALSE Daario Naharis
+NULL NULL Daario Naharis
 MORT FALSE The Mountain
 MORT FALSE The Hound
 VIVANT FALSE Samwell Tarley
@@ -44,4 +44,4 @@ VIVANT FALSE Tormund Giantsbane
 VIVANT FALSE Gendry
 VIVANT FALSE Robin Arryn
 VIVANT FALSE Edmure Tully
-VIVANT FALSE Jaqen H’ghar
+NULL NULL Jaqen H’ghar

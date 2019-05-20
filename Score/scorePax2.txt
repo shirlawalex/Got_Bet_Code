@@ -1,4 +1,4 @@
-N2-Manon LECLERC, Total:29
+N2-Manon LECLERC, Total:27
 ### Resultat Question ###
 Reponse:Sansa Stark correction:Bran Stark
 Reponse:Euron Greyjoy correction:Beric Dondarrion
@@ -33,8 +33,7 @@ Transformation : FALSE
 num:7 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
 	points = 5+1
-num:8 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =6+0
+NULL
 num:9 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =6+0
 num:10 Reponse deathnote:MORT FALSE correction:MORT FALSE
@@ -63,50 +62,46 @@ num:18 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =12+0
 num:19 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =12+0
-num:20 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 12+1
+NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 13+1
+	points = 12+1
 num:22 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 14+1
+	points = 13+1
 num:23 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 15+1
+	points = 14+1
 num:24 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 16+1
+	points = 15+1
 num:25 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 17+1
+	points = 16+1
 num:26 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 18+1
+	points = 17+1
 num:27 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 19+1
+	points = 18+1
 num:28 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 20+1
+	points = 19+1
 num:29 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 21+1
+	points = 20+1
 num:30 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
-	points = 22+1
+	points = 21+1
 num:31 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =23+0
+	points =22+0
 num:32 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 23+1
+	points = 22+1
 num:33 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 24+1
+	points = 23+1
 num:34 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
 Transformation : FALSE
-	points = 25+1
-num:35 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 26+1
+	points = 24+1
+NULL

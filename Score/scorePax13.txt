@@ -1,4 +1,4 @@
-N13-Marie-Amelie Gaston, Total:18
+N13-Marie-Amelie Gaston, Total:17
 ### Resultat Question ###
 Reponse:Jon Snow correction:Bran Stark
 Reponse:Davos Seaworth correction:Beric Dondarrion
@@ -32,8 +32,7 @@ Transformation : FALSE
 	points = 5+1
 num:7 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =6+0
-num:8 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
-	points =6+0
+NULL
 num:9 Reponse deathnote:VIVANT FALSE correction:MORT FALSE
 	points =6+0
 num:10 Reponse deathnote:MORT TRUE correction:MORT FALSE
@@ -59,8 +58,7 @@ Transformation : FALSE
 	points = 8+1
 num:19 Reponse deathnote:NULL NULL correction:VIVANT FALSE
 	points =9+0
-num:20 Reponse deathnote:NULL NULL correction:VIVANT FALSE
-	points =9+0
+NULL
 num:21 Reponse deathnote:MORT FALSE correction:MORT FALSE
 Transformation : FALSE
 	points = 9+1
@@ -96,6 +94,4 @@ num:33 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =16+0
 num:34 Reponse deathnote:MORT FALSE correction:VIVANT FALSE
 	points =16+0
-num:35 Reponse deathnote:VIVANT FALSE correction:VIVANT FALSE
-Transformation : FALSE
-	points = 16+1
+NULL
