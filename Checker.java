@@ -82,20 +82,20 @@ public class Checker{
 		for(int i = 0;i<taille;i++){
 			if(!correction[i][0].equals("NULL")){
 				//System.out.println("Reponse deathnote:"+deathnote[i][0]+" correction:"+correction[i][0]);
-				content += "Reponse deathnote:"+deathnote[i][0]+" correction:"+correction[i][0]+"\n";
+				content += "num:"+i+" Reponse deathnote:"+deathnote[i][0]+" "+deathnote[i][1]+" correction:"+correction[i][0]+" "+correction[i][1]+"\n";
 				if(deathnote[i][0].equals(correction[i][0]) && deathnote[i][1].equals(correction[i][1])){
 					if( correction[i][1].equals("FALSE")){
-						content += "FALSE"+"\n";
+						content += "Transformation : FALSE"+"\n";
 						content += "	points = "+points+"+1"+"\n";
 						points += 1;
 					}else{
-						content += "TRUE"+"\n";
+						content += "Transformation : TRUE"+"\n";
 						content += "	points = "+points+"+2"+"\n";
 						points += 2;
 					}
 				}else{
 					//Mauvaise prédiction
-					content += "	points ="+points+" 0"+"\n";
+					content += "	points ="+points+"+0"+"\n";
 				}
 			}else{
 				//System.out.println(correction[i][0]);

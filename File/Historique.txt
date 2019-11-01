@@ -60,3 +60,7 @@ lundi 20 mai 2019, 15:22:12 (UTC+0200)
  rewrite File/Result.txt (60%)
  rewrite File/Score.txt (98%)
 lundi 20 mai 2019, 16:58:28 (UTC+0200)
+[master 9a1433a] calcul des scores
+ 24 files changed, 397 insertions(+), 482 deletions(-)
+ rewrite File/Score.txt (98%)
+ copy File/{Score.txt => result_inconnu.txt} (100%)
